@@ -1,0 +1,79 @@
+{
+  "seed": 42,
+  "iu_dir": "/kaggle/input/datasets/raddar/chest-xrays-indiana-university",
+  "out_dir": "/kaggle/working/aea-xai-pipeline-v2",
+  "frontal_reports": 3689,
+  "label_counts_all": {
+    "normal": 1343,
+    "abnormal": 2346
+  },
+  "label_counts_by_split": {
+    "train": {
+      "n": 2582,
+      "normal": 956,
+      "abnormal": 1626
+    },
+    "val": {
+      "n": 369,
+      "normal": 130,
+      "abnormal": 239
+    },
+    "test": {
+      "n": 738,
+      "normal": 257,
+      "abnormal": 481
+    }
+  },
+  "images_missing_by_split": {
+    "train": 0,
+    "val": 0,
+    "test": 0
+  },
+  "biomedclip_tokens": {
+    "train_max": 242,
+    "all_max": 292,
+    "train_truncated": false
+  },
+  "train_pools": {
+    "abnormal": 1626,
+    "normal": 938
+  },
+  "conditions": {
+    "C1": {
+      "n": 738,
+      "image_normal_ret_abnormal": 0,
+      "image_abnormal_ret_normal": 0,
+      "image_normal_ret_normal": 257,
+      "image_abnormal_ret_abnormal": 481
+    },
+    "C2": {
+      "n": 257,
+      "image_normal_ret_abnormal": 257,
+      "image_abnormal_ret_normal": 0,
+      "image_normal_ret_normal": 0,
+      "image_abnormal_ret_abnormal": 0
+    },
+    "C3": {
+      "n": 481,
+      "image_normal_ret_abnormal": 0,
+      "image_abnormal_ret_normal": 481,
+      "image_normal_ret_normal": 0,
+      "image_abnormal_ret_abnormal": 0
+    },
+    "C4": {
+      "n": 234,
+      "image_normal_ret_abnormal": 0,
+      "image_abnormal_ret_normal": 234,
+      "image_normal_ret_normal": 0,
+      "image_abnormal_ret_abnormal": 0
+    }
+  },
+  "rivn": {
+    "tau": 0.5199999999999998,
+    "f1": 0.6165413533834586,
+    "auc": 0.48709101725163595,
+    "flagged": 732,
+    "n": 738
+  },
+  "no_indexing_rows": 92
+}

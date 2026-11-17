@@ -1,0 +1,5 @@
+old/
+RERUN_CHECKLIST.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

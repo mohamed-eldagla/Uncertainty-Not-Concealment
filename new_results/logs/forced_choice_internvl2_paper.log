@@ -1,0 +1,137 @@
+Device: cuda
+matched(C0)=738 mismatched(C2/C3/C4)=972
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794874908.773345    2327 sentencepiece_processor.cc:130] Piece at index 354 is a null character (\0) and byte_fallback is enabled. Treating it as an UNUSED piece.
+FlashAttention2 is not installed.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+Warning: Flash attention is not available, using eager attention instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:20<01:01, 20.48s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:40<00:40, 20.14s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [01:00<00:20, 20.01s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:05<00:00, 14.38s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:05<00:00, 16.50s/it]
+InternVL2-8B loaded.
+
+--- Mismatched (C2/C3/C4) forced choice: 100 per condition ---
+mismatched 0/100
+mismatched 10/100
+mismatched 20/100
+mismatched 30/100
+mismatched 40/100
+mismatched 50/100
+mismatched 60/100
+mismatched 70/100
+mismatched 80/100
+mismatched 90/100
+mismatched 0/100
+mismatched 10/100
+mismatched 20/100
+mismatched 30/100
+mismatched 40/100
+mismatched 50/100
+mismatched 60/100
+mismatched 70/100
+mismatched 80/100
+mismatched 90/100
+mismatched 0/100
+mismatched 10/100
+mismatched 20/100
+mismatched 30/100
+mismatched 40/100
+mismatched 50/100
+mismatched 60/100
+mismatched 70/100
+mismatched 80/100
+mismatched 90/100
+--- Matched (C0) forced choice ---
+matched 0/150
+matched 10/150
+matched 20/150
+matched 30/150
+matched 40/150
+matched 50/150
+matched 60/150
+matched 70/150
+matched 80/150
+matched 90/150
+matched 100/150
+matched 110/150
+matched 120/150
+matched 130/150
+matched 140/150
+
+CONTRADICTS rate: mismatched 5.0% vs matched 2.7%
+Mismatched counts: {'SUPPORTS': 284, 'CONTRADICTS': 15, 'OTHER': 1}
+Matched counts: {'SUPPORTS': 144, 'CONTRADICTS': 4, 'OTHER': 2}
+  C2: {'SUPPORTS': 91, 'CONTRADICTS': 8, 'OTHER': 1} CONT=8.0% (n=100)
+  C3: {'SUPPORTS': 96, 'CONTRADICTS': 4} CONT=4.0% (n=100)
+  C4: {'SUPPORTS': 97, 'CONTRADICTS': 3} CONT=3.0% (n=100)
+
+{
+  "model": "InternVL2-8B",
+  "mismatched_counts": {
+    "SUPPORTS": 284,
+    "CONTRADICTS": 15,
+    "OTHER": 1
+  },
+  "mismatched_contradicts_rate": 5.0,
+  "matched_counts": {
+    "SUPPORTS": 144,
+    "CONTRADICTS": 4,
+    "OTHER": 2
+  },
+  "matched_contradicts_rate": 2.666666666666667,
+  "per_condition": {
+    "C2": {
+      "counts": {
+        "SUPPORTS": 91,
+        "CONTRADICTS": 8,
+        "OTHER": 1
+      },
+      "n": 100,
+      "contradicts_rate": 8.0
+    },
+    "C3": {
+      "counts": {
+        "SUPPORTS": 96,
+        "CONTRADICTS": 4
+      },
+      "n": 100,
+      "contradicts_rate": 4.0
+    },
+    "C4": {
+      "counts": {
+        "SUPPORTS": 97,
+        "CONTRADICTS": 3
+      },
+      "n": 100,
+      "contradicts_rate": 3.0
+    }
+  },
+  "n_mismatched": 300,
+  "n_matched": 150
+}
+
+=== ALL responses containing CONTRADICT (verify negation handling) ===
+  [mismatched C2 1147] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\n'
+  [mismatched C2 149] -> CONTRADICTS (negated=False): 'Contradict\nThe X-ray shows a prominent ascending aorta, which is not consistent with the finding that the heart size is normal.\nThe X-ray also shows clear lungs'
+  [mismatched C2 2855] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo'
+  [mismatched C2 1566] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\n'
+  [mismatched C2 444] -> CONTRADICTS (negated=False): 'Support\nSupport\nContradict\nContradict\nInconclusive\nInconclusive\nSupport\nSupport\nContradict\nContr'
+  [mismatched C2 3288] -> CONTRADICTS (negated=False): 'Contradict\nThe X-ray shows a clear lung field with no signs of loculated pleural fusion or chronic interstitial lung disease.\nThe X-ray shows a clear lung field'
+  [mismatched C2 1598] -> CONTRADICTS (negated=False): 'Contradict\nThe X-ray shows clear lung fields, which contradicts the finding of right lower lobe pneumonia.\nThe X-ray shows clear lung fields, which'
+  [mismatched C2 928] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo'
+  [mismatched C3 521] -> CONTRADICTS (negated=False): 'Support\nSupport\nContradict\nInconclusive\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport'
+  [mismatched C3 3179] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo information\nSupport\nContradict\nCannot say\nNo information\nSupport\nContradict\n'
+  [mismatched C3 997] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo opinion\nSupport\nContradict\nCannot say\nNo opinion\nSupport\nContradict\n'
+  [mismatched C3 296] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot Say\nSupport\nContradict\nCannot Say\nSupport\nContradict\nCannot Say\nSupport\nContr'
+  [mismatched C4 2427] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNone of the above\nSupport\nThe cardiomediastinal silhouette and pulmonary vasculature are within normal limits in'
+  [mismatched C4 3009] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo opinion\nSupport\nThis X-ray supports the finding that there is no evidence for acute pulmonary disease, as the lungs appear'
+  [mismatched C4 3414] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nNo\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport\nSupport'
+  [matched C0 1676] -> CONTRADICTS (negated=False): 'Support\nContradict\nCannot say\nHeart size and mediastinal contour within normal limits. Aortic atherosclerotic calcifications. Emphysemat'
+  [matched C0 509] -> CONTRADICTS (negated=False): 'Support\nSupport\nContradict\nContradict\nInconclusive\nInconclusive\nInconclusive\nInconclusive'
+  [matched C0 3241] -> CONTRADICTS (negated=False): 'Contradict\nThe X-ray image shows evidence of focal airspace consolidation in the left lung base, which contradicts the finding that there is no focal airspace c'
+  [matched C0 1753] -> CONTRADICTS (negated=False): 'Contradict\nThe X-ray image shows a clear lung field with no signs of pleural effusion or pneumothorax. The heart size appears to be within normal limits, and'
+
+=== sample OTHER (refusals/hedges) ===
+  [mismatched C2 3598]: 'No\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo'
+  [matched C0 1147]: ''
+  [matched C0 3782]: ''
+Done.

@@ -1,0 +1,53 @@
+matched(C0)=738 mismatched=972
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794881392.077838    2531 sentencepiece_processor.cc:130] Piece at index 354 is a null character (\0) and byte_fallback is enabled. Treating it as an UNUSED piece.
+FlashAttention2 is not installed.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Warning: Flash attention is not available, using eager attention instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:16<00:50, 16.83s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:35<00:35, 17.70s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:51<00:16, 16.97s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:56<00:00, 12.25s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:56<00:00, 14.07s/it]
+InternVL2-8B loaded on cuda:0.
+Loading BiomedCLIP ...
+BiomedCLIP loaded.
+matched 0/200
+matched 50/200
+matched 100/200
+matched 150/200
+mismatched 0/200
+mismatched 50/200
+mismatched 100/200
+mismatched 150/200
+Collected 400 rows.
+clip_cosine: matched=0.4026 mismatched=0.4195 AUC=0.595 p=0.0010
+output_entropy: matched=2.3791 mismatched=2.3431 AUC=0.466 p=0.2417
+attention: matched=0.0459 mismatched=0.0436 AUC=0.438 p=0.0325
+
+{
+  "clip_cosine": {
+    "available": true,
+    "matched_mean": 0.4026231607794762,
+    "mismatched_mean": 0.41952567830681803,
+    "auc": 0.5954,
+    "mannwhitney_p": 0.0009661689296202047,
+    "n_matched": 200,
+    "n_mismatched": 200
+  },
+  "output_entropy": {
+    "available": true,
+    "matched_mean": 2.3791180782847934,
+    "mismatched_mean": 2.343068959712982,
+    "auc": 0.46606060606060606,
+    "mannwhitney_p": 0.24166667082035043,
+    "n_matched": 198,
+    "n_mismatched": 200
+  },
+  "attention": {
+    "available": true,
+    "matched_mean": 0.04593768022536694,
+    "mismatched_mean": 0.04362801054414838,
+    "auc": 0.43803030303030305,
+    "mannwhitney_p": 0.03250277515787484,
+    "n_matched": 198,
+    "n_mismatched": 200
+  }
+}
+Done.

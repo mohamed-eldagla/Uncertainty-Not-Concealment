@@ -1,0 +1,231 @@
+Device: cuda
+C0=738 mismatched=972
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794881836.720288    2681 sentencepiece_processor.cc:130] Piece at index 354 is a null character (\0) and byte_fallback is enabled. Treating it as an UNUSED piece.
+FlashAttention2 is not installed.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+Warning: Flash attention is not available, using eager attention instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:14<00:44, 14.96s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:29<00:29, 14.90s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:40<00:12, 12.82s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:42<00:00,  8.55s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:42<00:00, 10.54s/it]
+InternVL2-8B loaded. 32 layers.
+matched 0/200
+matched 50/200
+matched 100/200
+matched 150/200
+mismatched 0/200
+mismatched 50/200
+mismatched 100/200
+mismatched 150/200
+Direction computed + saved.
+
+--- Direction diagnostics ---
+  L25: cos=0.9944 L2dist=20.7055 n=198/200
+  L26: cos=0.9945 L2dist=22.4796 n=198/200
+  L27: cos=0.9941 L2dist=24.9784 n=198/200
+  L28: cos=0.9936 L2dist=27.9389 n=198/200
+  L29: cos=0.9935 L2dist=32.6966 n=198/200
+  L30: cos=0.9938 L2dist=37.7011 n=198/200
+  L31: cos=0.9981 L2dist=49.3853 n=198/200
+Steering test: 60 mismatched, FP: 30 matched
+  [checkpoint 10 rows]
+  [checkpoint 20 rows]
+  [checkpoint 30 rows]
+  [checkpoint 40 rows]
+  [checkpoint 50 rows]
+sweep (alpha=0.0): naive {'SUPPORTS': 54, 'INCONCLUSIVE': 4, 'CONTRADICTS': 1} | robust {'SUPPORTS': 54, 'INCONCLUSIVE': 5} | naive-CONT 1.7% robust-CONT 0.0%
+  [checkpoint 60 rows]
+  [checkpoint 70 rows]
+  [checkpoint 80 rows]
+  [checkpoint 90 rows]
+  [checkpoint 100 rows]
+  [checkpoint 110 rows]
+sweep (alpha=3.0): naive {'SUPPORTS': 54, 'INCONCLUSIVE': 3, 'CONTRADICTS': 2} | robust {'SUPPORTS': 54, 'INCONCLUSIVE': 5} | naive-CONT 3.4% robust-CONT 0.0%
+  [checkpoint 120 rows]
+  [checkpoint 130 rows]
+  [checkpoint 140 rows]
+  [checkpoint 150 rows]
+  [checkpoint 160 rows]
+  [checkpoint 170 rows]
+sweep (alpha=5.0): naive {'SUPPORTS': 54, 'INCONCLUSIVE': 5} | robust {'SUPPORTS': 53, 'INCONCLUSIVE': 6} | naive-CONT 0.0% robust-CONT 0.0%
+  [checkpoint 180 rows]
+  [checkpoint 190 rows]
+  [checkpoint 200 rows]
+  [checkpoint 210 rows]
+  [checkpoint 220 rows]
+  [checkpoint 230 rows]
+sweep (alpha=8.0): naive {'SUPPORTS': 52, 'INCONCLUSIVE': 7} | robust {'SUPPORTS': 52, 'INCONCLUSIVE': 7} | naive-CONT 0.0% robust-CONT 0.0%
+  [checkpoint 240 rows]
+  [checkpoint 250 rows]
+  [checkpoint 260 rows]
+  [checkpoint 270 rows]
+  [checkpoint 280 rows]
+  [checkpoint 290 rows]
+sweep (alpha=12.0): naive {'SUPPORTS': 50, 'CONTRADICTS': 1, 'INCONCLUSIVE': 8} | robust {'SUPPORTS': 51, 'INCONCLUSIVE': 8} | naive-CONT 1.7% robust-CONT 0.0%
+  [checkpoint 300 rows]
+  [checkpoint 310 rows]
+  [checkpoint 320 rows]
+  [checkpoint 330 rows]
+  [checkpoint 340 rows]
+  [checkpoint 350 rows]
+sweep (alpha=15.0): naive {'SUPPORTS': 51, 'INCONCLUSIVE': 8} | robust {'SUPPORTS': 51, 'INCONCLUSIVE': 8} | naive-CONT 0.0% robust-CONT 0.0%
+  [checkpoint 360 rows]
+  [checkpoint 370 rows]
+  [checkpoint 380 rows]
+  [checkpoint 390 rows]
+  [checkpoint 400 rows]
+  [checkpoint 410 rows]
+sweep (alpha=20.0): naive {'SUPPORTS': 48, 'CONTRADICTS': 3, 'INCONCLUSIVE': 8} | robust {'SUPPORTS': 49, 'INCONCLUSIVE': 10} | naive-CONT 5.1% robust-CONT 0.0%
+  [checkpoint 420 rows]
+  [checkpoint 430 rows]
+  [checkpoint 440 rows]
+fp (alpha=20.0): naive {'INCONCLUSIVE': 6, 'SUPPORTS': 24} | robust {'INCONCLUSIVE': 9, 'SUPPORTS': 21} | naive-CONT 0.0% robust-CONT 0.0%
+
+{
+  "model": "InternVL2-8B",
+  "n_direction_samples": 198,
+  "sweep": {
+    "0.0": {
+      "naive": {
+        "SUPPORTS": 54,
+        "INCONCLUSIVE": 4,
+        "CONTRADICTS": 1
+      },
+      "robust": {
+        "SUPPORTS": 54,
+        "INCONCLUSIVE": 5
+      },
+      "naive_cont": 1.694915254237288,
+      "robust_cont": 0.0
+    },
+    "3.0": {
+      "naive": {
+        "SUPPORTS": 54,
+        "INCONCLUSIVE": 3,
+        "CONTRADICTS": 2
+      },
+      "robust": {
+        "SUPPORTS": 54,
+        "INCONCLUSIVE": 5
+      },
+      "naive_cont": 3.389830508474576,
+      "robust_cont": 0.0
+    },
+    "5.0": {
+      "naive": {
+        "SUPPORTS": 54,
+        "INCONCLUSIVE": 5
+      },
+      "robust": {
+        "SUPPORTS": 53,
+        "INCONCLUSIVE": 6
+      },
+      "naive_cont": 0.0,
+      "robust_cont": 0.0
+    },
+    "8.0": {
+      "naive": {
+        "SUPPORTS": 52,
+        "INCONCLUSIVE": 7
+      },
+      "robust": {
+        "SUPPORTS": 52,
+        "INCONCLUSIVE": 7
+      },
+      "naive_cont": 0.0,
+      "robust_cont": 0.0
+    },
+    "12.0": {
+      "naive": {
+        "SUPPORTS": 50,
+        "CONTRADICTS": 1,
+        "INCONCLUSIVE": 8
+      },
+      "robust": {
+        "SUPPORTS": 51,
+        "INCONCLUSIVE": 8
+      },
+      "naive_cont": 1.694915254237288,
+      "robust_cont": 0.0
+    },
+    "15.0": {
+      "naive": {
+        "SUPPORTS": 51,
+        "INCONCLUSIVE": 8
+      },
+      "robust": {
+        "SUPPORTS": 51,
+        "INCONCLUSIVE": 8
+      },
+      "naive_cont": 0.0,
+      "robust_cont": 0.0
+    },
+    "20.0": {
+      "naive": {
+        "SUPPORTS": 48,
+        "CONTRADICTS": 3,
+        "INCONCLUSIVE": 8
+      },
+      "robust": {
+        "SUPPORTS": 49,
+        "INCONCLUSIVE": 10
+      },
+      "naive_cont": 5.084745762711865,
+      "robust_cont": 0.0
+    }
+  },
+  "fp_alpha": 20.0,
+  "false_positive_naive_counts": {
+    "INCONCLUSIVE": 6,
+    "SUPPORTS": 24
+  },
+  "false_positive_robust_counts": {
+    "INCONCLUSIVE": 9,
+    "SUPPORTS": 21
+  },
+  "false_positive_robust_contradicts_rate": 0.0,
+  "direction_diagnostics": {
+    "25": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9944038391113281,
+      "mean_l2_dist": 20.70552635192871,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "26": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9944903254508972,
+      "mean_l2_dist": 22.4796085357666,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "27": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9940640926361084,
+      "mean_l2_dist": 24.978355407714844,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "28": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9936347007751465,
+      "mean_l2_dist": 27.93889045715332,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "29": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9935476183891296,
+      "mean_l2_dist": 32.69660186767578,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "30": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9937784671783447,
+      "mean_l2_dist": 37.70112228393555,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "31": {
+      "cos_sim_matched_vs_mismatched_mean": 0.9980764389038086,
+      "mean_l2_dist": 49.38532257080078,
+      "n_matched": 198,
+      "n_mismatched": 200
+    }
+  }
+}
+Done.

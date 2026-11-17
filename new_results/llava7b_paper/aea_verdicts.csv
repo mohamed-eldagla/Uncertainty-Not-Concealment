@@ -1,0 +1,973 @@
+cond,uid,verdict,gen
+C2,1,INVALID,"The X-ray shows a clear chest with no signs of infiltrate or effusion, supporting the statement that the heart is within normal limits and there is no acute cardiopulmonary disease."
+C2,8,INVALID,"The X-ray shows a significant enlargement of the heart, which is a symptom of cardiomegaly. The presence of prominent pulmonary vascularity suggests that the heart is pumping blood efficiently. However, the absence of focal airspace consolidation, suspicious pulmonary opacity, or definite pleural effusion indicates that there is no evidence of"
+C2,30,INVALID,The cardiac silhouette is normal in size and configuration. The mediastinum and perihilar appear unremarkable. A XXXX lumen catheter is seen overlying the right chest and XXXX entering from subclavian approach. The tip is noted in the superior XXXX XXXX inferiorly. No pneumothorax identified. The lungs appear
+C2,34,INVALID,"The X-ray shows a left mid lung opacity, which is most compatible with atelectasis versus infiltrate. The heart size is within normal limits, and there is no pleural effusion or evidence of pneumothorax. Osseous structures are intact, and the costophrenic angles are visible."
+C2,46,INVALID,The X-ray shows a normal heart size and no visible active cardiopulmonary disease.
+C2,52,INVALID,"The X-ray shows a mild anterior wedge XXXX deformity of L1, age-indeterminate, which suggests that the heart size and mediastinal contour are normal, pulmonary vascularity is normal, lungs are clear, and there are no pleural effusions or pneumothoraces."
+C2,71,INVALID,The X-ray does not provide enough information to support or contradict the statement about the left costophrenic angle being excluded from the PA view.
+C2,83,SUPPORTS,Supports
+C2,107,INVALID,"The X-ray shows a stable cardiomediastinal silhouette, with no focal consolidation, pneumothorax, or effusion, and no acute bony abnormality. The left proximal humeral enchondroma is stable, and the multilevel degenerative disc disease of the thoracic spine is also stable. The"
+C2,149,INVALID,"The X-ray shows a normal heart size and clear lungs, but the presence of calcified left hilar XXXX suggests that the left lung may have some issues."
+C2,154,INVALID,"The X-ray shows the lungs are clear without focal consolidation, which supports the diagnosis of obstructive lung disease."
+C2,186,SUPPORTS,Supports
+C2,190,INVALID,"The X-ray shows atelectasis in the left lung base, which is a condition where a part of the lung collapses due to a lack of air."
+C2,191,INVALID,"The X-ray shows eventration of the left diaphragm, which may indicate atelectasis or infiltrate."
+C2,195,SUPPORTS,Supports
+C2,196,INVALID,"The presence of a 7mm non calcified nodule in the chest area is a concern, but the image does not provide enough information to determine its origin or significance."
+C2,208,INVALID,The cardiac contours are normal. The lungs are clear. Thoracic spondylosis. No acute process.
+C2,219,INVALID,"The X-ray shows a clear view of the lungs and ribs, but there is no indication of a fracture in the 10th left posterior rib."
+C2,225,INVALID,"The lungs are clear, which supports the statement that there is no focal airspace consolidation."
+C2,236,SUPPORTS,Supports
+C2,259,INVALID,"The X-ray shows a moderately enlarged heart, stable mediastinal contours, and curvilinear densities over the heart, which suggestive of coronary artery stents. There is no focal alveolar consolidation, no definite pleural effusion seen, and no typical findings of pulmonary edema. The cardiomegaly is"
+C2,272,INVALID,"The x-ray shows a prominent pulmonary silhouette, which supports the diagnosis of minimal cardiomegaly."
+C2,275,INVALID,"The X-ray shows mild emphysematous changes without focal consolidation, which supports the statement that the heart is normal in size and the mediastinum is unremarkable."
+C2,279,INVALID,"The X-ray shows atelectasis with hypoventilation, which is supported by the presence of streaky bibasilar opacities."
+C2,301,INVALID,"The X-ray shows a mild cardiomegaly and irregular ribs, but does not provide enough information to determine if there is any lung opacification or costophrenic angles."
+C2,306,SUPPORTS,Supports
+C2,319,INVALID,"The X-ray shows a clear view of the lungs and the heart, but there is no evidence of the left hemidiaphragm or the left basilar airspace disease."
+C2,320,SUPPORTS,Supports
+C2,338,INVALID,"The X-ray shows a clear chest with no evidence of tuberculosis, a normal heart size, and clear lungs. There is a calcified 5 mm right midlung granuloma and right hilar granulomas."
+C2,339,INVALID,"The X-ray shows a clear lung and no pleural line, which supports the statement that there is stable mild cardiac enlargement and no acute cardiopulmonary findings."
+C2,345,INVALID,"The X-ray shows a clear heart and lungs, with no focal air space consolidations or pleural effusions, and normal pulmonary vascularity, supporting the statement that the heart size is normal and there are no abnormalities."
+C2,346,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, pulmonary vasculature within normal limits, and well-aerated lungs, but it does not provide information about the presence of pneumothorax, pleural effusion, or focal consolidation."
+C2,348,INVALID,"The X-ray shows that the heart is normal in size, the mediastinum is stable, and the lungs remain hypoinflated with blunted costophrenic angles. There is no pneumothorax. The postsurgical changes of esophagectomy and gastric pull-through are stable, and bibasilar air space opacities have significantly"
+C2,356,INVALID,"The X-ray shows a right-sided internal jugular central venous catheter with tip approximating the right atrium, postsurgical changes of the mediastinum including sternotomy, left base opacities, a left lung opacity, and degenerative changes in the thoracic spine. The presence of the catheter and the postsurgical changes"
+C2,385,SUPPORTS,Supports
+C2,393,INVALID,"The X-ray shows a mildly hypoinflated lung with no focal airspace disease, pneumothorax, or pleural effusion. The cardiac silhouette is within normal limits in size for AP technique. The pulmonary vasculature is normal in caliber, and there are no acute bony findings."
+C2,430,INVALID,"The X-ray shows a mass in the left lower hemithorax, which is favored to be arising from the chest wall and be pleural based. A CT of the chest is recommended for further evaluation."
+C2,438,INVALID,"The x-ray shows a stable cardiomediastinal silhouette, with no focal pulmonary opacity, pleural effusion or pneumothorax, and no acute bony abnormality. There are stable degenerative changes of the spine, but no acute cardiopulmonary abnormality."
+C2,444,INVALID,"The X-ray shows the heart size is stable, the aorta is ectatic and atherosclerotic but stable, the scarring in the left lower lobe is unchanged, and there are mild bilateral prominent lung interstitial opacities consistent with emphysematous disease. The calcified granulomas are stable."
+C2,459,INVALID,"The X-ray shows a person's chest and lungs, which may indicate a medical condition or procedure."
+C2,461,INVALID,"The X-ray shows low lung volumes and calcific density in the right lung apex, which is compatible with a calcified granuloma. There is no acute cardiopulmonary abnormality."
+C2,473,SUPPORTS,Supports
+C2,479,INVALID,"The X-ray shows a right-sided chest X-ray in the mid SVC, which supports the diagnosis of a right-sided chest X-ray in the mid SVC."
+C2,480,INVALID,"The X-ray shows a clear heart and lungs, and a calcified stable right midlung granuloma."
+C2,487,INVALID,"The X-ray shows a normal cardiac and mediastinal contours, granulomatous calcifications in the paratracheal region, mild streaky scarring in the right upper lobe, and no active pneumonia. The bony structures are intact, and there is no lobar pneumonia present."
+C2,510,INVALID,The visual evidence of the ribs and the aorta supports the diagnosis of mild cardiomegaly and atherosclerosis.
+C2,536,SUPPORTS,Supports
+C2,543,INVALID,"The x-ray shows the heart size is normal, but there is vascular congestion in bilateral hilar areas, the lungs are hyperexpanded with flattened diaphragms, and there is no acute bony abnormalities, effusion or infiltrate, pneumothorax or pneumomediastinum."
+C2,572,INVALID,"The image shows a chest X-ray of a person, which includes the lungs, heart, and spine. The lungs are well expanded, and there is a calcified granuloma in the right lower lobe. The heart size is normal, and there is a catheter tip in the mid-subclavian chest. The spine shows mild deg"
+C2,577,INVALID,"The X-ray does not support the diagnosis of pulmonary emphysema, as there is no visible consolidation or focal areas of consolidation."
+C2,582,INVALID,"The X-ray shows a mild case of hyperinflation, with scattered irregular interstitial markings and no focal alveolar consolidation. The heart size is near the top of normal limits, and there is aortic ectasia/tortuosity similar to prior. The right hemidiaphragm eventration is also visible. However,"
+C2,588,INVALID,"The X-ray shows that the heart and mediastinal silhouettes are within normal limits, the lungs are clear without focal airspace opacity, large effusion, or pneumothorax, the XXXX are grossly intact, and there is no acute visualized cardiopulmonary abnormality."
+C2,618,INVALID,"The X-ray shows a small centrally calcified granuloma within the lateral right lung base, which supports the diagnosis of a lung abnormality."
+C2,654,INVALID,"The X-ray shows a clear cardiac silhouette and intact costophrenic angles, which supports the statement that the patient has stable post-operative changes with mild cardiomegaly and small bilateral pleural effusions."
+C2,663,INVALID,The X-ray shows the heart and lungs are clear and there are no pneumothorax or pleural effusions.
+C2,720,INVALID,"The X-ray shows a 1.5 cm nodule in the left midlung zone, which may contain calcium, but this cannot be confirmed. The lungs are free of focal airspace disease, and the heart size and pulmonary vascularity appear within normal limits. The absence of pleural effusion or pneumothorax is also noted."
+C2,727,INVALID,"The X-ray shows that the lung lines remain low, and there are no focal infiltrates identified. The heart and pulmonary XXXX are normal, and the XXXX change is hypoinflation with no visible active cardiopulmonary disease."
+C2,751,INVALID,"The X-ray shows a stable cardiomegaly with rightward mediastinal shift, unchanged appearance of left perihilar calcified lymph and left basilar calcified granuloma, relatively unchanged appearance of prominent interstitial markings with patchy bibasilar atelectasis, and no acute bony abnormalities."
+C2,758,INVALID,"The X-ray shows low lung volumes with bronchovascular crowding, which supports the diagnosis of low lung volumes with bronchovascular crowding as a result."
+C2,764,INVALID,"The X-ray shows a clear view of the ribcage and the heart, but the lungs are not visible. This could indicate that the exam is limited by the patient's body habitus, which may affect the visibility of the lungs."
+C2,767,INVALID,"The X-ray shows a clear view of the ribcage and lungs, indicating that there is no evidence of tuberculosis or atelectasis in the right base of the lungs. The heart size is also normal, suggesting that the patient's cardiovascular health is stable."
+C2,781,INVALID,"The X-ray shows the lungs are free of focal airspace disease, which contradicts the suggestion of emphysema."
+C2,793,INVALID,"The X-ray shows a rounded mass in the right middle lobe, which measures approximately 4.6 cm x 3.7 cm. There is mild surrounding airspace disease and/or atelectasis, and the visualized bony thorax appears grossly intact. The right mid lung mass with mild right paratracheal soft tissue may be secondary to"
+C2,795,INVALID,"The X-ray shows a clear chest with no signs of infiltrate or effusion, supporting the statement that the trachea is midline and the cardiomediastinal silhouette is normal."
+C2,801,INVALID,"The X-ray shows a normal cardiomediastinal contours, no pneumothorax or large pleural effusions, small focal retrocardiac lung opacity, and small left retrocardiac opacity, which may represent minimal atelectasis or small focus of airspace disease."
+C2,815,INVALID,"The X-ray shows a clear lung and a normal heart size, with scattered thoracic spine spurring and no acute cardiopulmonary finding."
+C2,829,INVALID,"The X-ray shows a normal heart size and clear lungs, but there is a calcified 5 mm right midlung granuloma."
+C2,863,SUPPORTS,Supports
+C2,865,INVALID,"The X-ray shows that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C2,928,INVALID,The X-ray does not provide enough information to support or contradict the statement.
+C2,935,INVALID,"The X-ray shows a fracture of the left anterior 7th rib and a suspected fracture of the left anterior 6th rib, of uncertain acuity. There is mild atelectasis in the left lung base and corticated deformity of the right anterior 7th rib, which is a remote fracture. The lungs are"
+C2,940,INVALID,"The X-ray shows a person with marked cardiomegaly and low lung volumes, which supports the diagnosis of cardiomegaly."
+C2,947,INVALID,"The X-ray shows a clear view of the ribcage and the aorta, but does not provide enough information to determine the presence of cardiomegaly or other abnormalities."
+C2,988,SUPPORTS,Supports
+C2,1005,SUPPORTS,Supports
+C2,1046,SUPPORTS,Supports
+C2,1093,INVALID,"The X-ray shows a right middle base calcific nodular density, which suggests that there is a calcification in the middle base area of the chest. This could be from old granulomatous disease, which is a chronic inflammatory disease that can cause calcification in the body. The presence of this calcification may indicate that the patient has been experiencing some"
+C2,1099,INVALID,"The X-ray shows the heart size and pulmonary vascularity within normal limits, but the right hemidiaphragm remains elevated."
+C2,1109,INVALID,"The X-ray supports the statement as it shows the cardiomediastinal contours within normal limits and no focal consolidation, pleural effusion, or pneumothorax identified."
+C2,1114,INVALID,The cardiomediastinal silhouette is stable. Lung volumes remain low. There is no pleural line to suggest pneumothorax or costophrenic XXXX blunting to suggest large pleural effusion. Bony structures are within normal limits. Low lung volumes. No acute cardiopulmonary findings.
+C2,1138,INVALID,"The X-ray shows a clear and unremarkable heart, mediastinum, and lungs, with no pleural effusion or acute disease."
+C2,1141,SUPPORTS,Supports
+C2,1147,INVALID,"The X-ray shows a clear view of the ribcage and lungs, indicating that there are no acute cardiopulmonary abnormalities or bony abnormalities."
+C2,1148,INVALID,"The X-ray shows a well circumscribed 11 mm right upper lobe nodule, which is unchanged from the previous examination 7 years ago. The trachea is midline, and there are no acute cardiopulmonary abnormalities. The heart size is normal, and the syndesmophyte is redemonstrated."
+C2,1172,INVALID,"The X-ray shows a mild prominence of the mediastinum and bibasilar predominantly interstitial pulmonary opacities, but does not provide visual evidence for the heart size, costophrenic angles, or pleural space."
+C2,1191,INVALID,"The X-ray shows a mildly enlarged heart, which supports the diagnosis of heart size mildly enlarged for technique."
+C2,1192,INVALID,"The presence of small calcified granulomas in the lungs suggests that the patient may have COPD, but the overall clear appearance of the lungs and the normal heart, mediastinum, skeletal structures, and soft tissues indicate that the disease is not severe."
+C2,1259,INVALID,"The X-ray shows a normal heart size and no focal consolidations in the lungs, which supports the statement that the heart size is within normal limits."
+C2,1260,INVALID,"The X-ray shows a clear heart and lungs, and bilateral nipple shadows, but does not provide information about the size of the heart."
+C2,1304,INVALID,"The X-ray shows a clear and normal heart, with no signs of pleural effusion or pneumothorax."
+C2,1319,INVALID,"The X-ray shows a stable calcified granuloma in the lungs, which supports the statement that there are no focal consolidations, pneumothorax, or pleural effusions."
+C2,1366,INVALID,"The X-ray shows low lung volumes, normal heart size and upper mediastinum, and minimal right basilar atelectasis."
+C2,1396,SUPPORTS,Supports
+C2,1397,INVALID,"The X-ray shows a mildly hyperexpanded lung, which suggests obstructive lung disease."
+C2,1425,INVALID,The X-ray supports the diagnosis of diffuse bilateral pulmonary fibrosis with relative sparing of the bilateral lung apices.
+C2,1435,INVALID,"The X-ray shows the heart, pulmonary, and mediastinum within normal limits, with no pleural effusion or pneumothorax, no focal air space opacity to suggest a pneumonia, and a slight wedge deformity of the mid to lower thoracic vertebral body unchanged from the comparison study."
+C2,1450,SUPPORTS,Supports
+C2,1456,INVALID,"The x-ray shows the lungs are clear without focal consolidation, effusion, or pneumothorax, and the cardiomegaly is without acute cardiopulmonary abnormality."
+C2,1462,INVALID,"The X-ray shows a small left pleural effusion with left basilar atelectasis, which supports the statement that the heart size and mediastinal contours appear within normal limits."
+C2,1466,INVALID,"The X-ray shows a clear chest with no acute pulmonary disease, supporting the statement that the heart and mediastinal contours are unchanged."
+C2,1476,INVALID,"The X-ray shows the heart is normal size and the mediastinum is unremarkable, which supports the statement that the heart is normal size."
+C2,1512,INVALID,"The X-ray shows the lungs are clear, there is no focal airspace consolidation, no pleural effusion or pneumothorax, heart size is within normal limits, right paratracheal density is stable from prior radiographs and may reflect tortuous vasculature, there is aortic atherosclerotic vascular calcification, there"
+C2,1516,INVALID,"The X-ray shows a clear bilateral lung and a normal cardiomediastinal silhouette, but the lateral views are obscured by the patient's body habitus. There is no evidence of apical disease, and the XXXX appear normal. The thoracic spine shows osteophyte formations at several levels, but there is no radiographic"
+C2,1517,INVALID,The X-ray shows clear lungs and mild blunting of the right costophrenic XXXX without definite pleural effusion.
+C2,1522,INVALID,"The X-ray shows a fracture deformity proximal right humerus, but it does not provide enough information to determine if there is hyperinflation of the lungs or pulmonary consolidation. The cardiomediastinal silhouette appears unremarkable, and the visualized spine vertebrae appear normal in alignment."
+C2,1533,INVALID,"The X-ray shows a clear right lung and normal pulmonary vascularity, but there is an opaque area in the left lung base, which could be atelectasis or scarring. The heart size is within normal limits, and there are no pleural effusion or pneumothorax. The bony structures are unremarkable, and the mediastinal"
+C2,1537,INVALID,"The X-ray shows a clear view of the ribcage and lungs, which supports the diagnosis of cardiomegaly."
+C2,1539,SUPPORTS,Supports
+C2,1566,INVALID,"The X-ray shows that the cardiac and mediastinal contours are within normal limits, which supports the statement that cardiac and mediastinal contours are within normal limits."
+C2,1573,INVALID,"The X-ray supports the statement as it shows the heart size and pulmonary vascularity within normal limits, and the lungs are free of focal airspace disease."
+C2,1579,INVALID,"The X-ray shows streaky and patchy bibasilar opacities, triangular density projected over the heart on the lateral view, and no definite pleural effusion seen. The cardiomediastinal silhouette is stable with a normal heart size. The bibasilar opacities are right greater than left, and the features suggest a combination of consolid"
+C2,1594,SUPPORTS,Supports
+C2,1598,INVALID,The x-ray shows a clear chest with no signs of pneumonia or other health issues.
+C2,1601,INVALID,"The X-ray shows a normal heart size and stable cardiomediastinal silhouette, with no signs of pneumothorax, pleural effusion, or focal airspace disease. The nodular densities are consistent with chronic granulomatous disease, and the bony structures appear intact. However, the presence of emphysema suggests a history of"
+C2,1605,SUPPORTS,Supports
+C2,1616,SUPPORTS,Supports
+C2,1622,INVALID,"The visual evidence supports the statement as the image shows a stable cardiomediastinal silhouette with mild haziness in the right lung and left base, which could represent infiltrate."
+C2,1655,INVALID,"The X-ray shows a clear view of the lungs, heart, and pulmonary structures, with no evidence of pneumonia or acute cardiopulmonary disease. The visual evidence supports the conclusion that the lungs are clear and healthy."
+C2,1659,INVALID,The presence of a large calcified granuloma in the right apex supports the diagnosis of a lung disease.
+C2,1671,INVALID,The X-ray shows a normal heart size and no visible active cardiopulmonary disease.
+C2,1674,INVALID,"The X-ray shows no change in the appearance of the left upper lobectomy, left parahilar scar, and no evidence of recurrence or metastasis."
+C2,1779,INVALID,"The X-ray shows that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C2,1788,INVALID,The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. There is a right lower lobe pneumonia. No pleural effusion. No pneumothorax. Right lower lobe pneumonia. Consider followup radiograph to document resolution.
+C2,1799,INVALID,"The X-ray does not support the statement that there are no focal areas of consolidation, no pleural effusions, no pneumothorax, heart size within normal limits, calcified granulomas, and degenerative changes in the thoracic spine."
+C2,1827,SUPPORTS,Supports
+C2,1834,INVALID,"The X-ray shows clear lungs bilaterally, no focal consolidation, pleural effusion, or pneumothoraces, stable aortic tortuosity, cardiomediastinal silhouette, scoliosis, degenerative changes of the thoracic spine, stent visualized in the right upper quadrant, and no ac"
+C2,1851,SUPPORTS,Supports
+C2,1871,INVALID,"The X-ray shows a large hiatal hernia, which can cause gastroesophageal reflux disease (GERD) and other complications. The presence of scoliosis in the spine may also contribute to the patient's symptoms. However, the absence of visible active cardiopulmonary disease and the normal heart size suggest that the patient'"
+C2,1879,INVALID,"The X-ray shows a normal heart size and unremarkable mediastinum, but the lungs are hypoinflated, and there are postsurgical/biopsy changes overlying the right breast."
+C2,1885,INVALID,"The X-ray does not support the presence of airspace disease, effusion, or noncalcified nodule. It also does not support the presence of calcified granuloma seen bilaterally. The X-ray does not support the normal heart size, the elevated right hemidiaphragm, the nodular soft tissue contour, containing liver, the degener"
+C2,1902,SUPPORTS,Supports
+C2,1903,INVALID,"The X-ray shows a mild prominence of the pulmonary vascularity, which is unchanged, and no focal airspace disease or pleural effusion is identified."
+C2,1915,SUPPORTS,Supports
+C2,1931,INVALID,"The X-ray shows a mild cardiomegaly, stable superior mediastinal contour, normal pulmonary vascularity, unchanged elevated right hemidiaphragm, minimal left basal airspace opacity, unchanged blunting of the right lateral costophrenic angles, scarring versus effusion, no pneumothorax, no ac"
+C2,1938,INVALID,"The X-ray shows a woman with a breast reduction, and it is inconclusive about the cardiac silhouette being within normal limits in size."
+C2,1953,SUPPORTS,Supports
+C2,1975,INVALID,"The X-ray shows severe emphysema with hyperinflated lungs and interstitial changes. There is an ill-defined pleural parenchymal opacity in the left upper lobe, which may represent scarring. The lungs are otherwise grossly clear, and there is no pneumothorax or pleural effusion. The heart size is normal, and"
+C2,2020,INVALID,The cardiac contours are normal. Cardiac valve replacement. The lungs are clear. Thoracic spondylosis. No acute process.
+C2,2024,INVALID,"The X-ray shows a clear and normal silhouette of the cardiomediastinal area and vasculature, with no acute radiographic cardiopulmonary process."
+C2,2026,INVALID,"The X-ray shows a stable enlargement of the heart, which supports the conclusion that there is no acute osseous abnormality."
+C2,2056,INVALID,"The x-ray shows a small area of platelike atelectasis in the left mid lung, which supports the diagnosis of mild cardiomegaly."
+C2,2061,INVALID,"The X-ray shows a heart within normal limits, stable mediastinal and hilar contours, no focal alveolar consolidation, no definite pleural effusion seen, no typical findings of pulmonary edema, no pneumothorax, and mild dextrocurvature of the spine."
+C2,2115,INVALID,"The X-ray shows a large left pleural effusion with minimal residual left lung aeration, small right pleural effusion, right lung bronchovascular crowding and indistinct vascular margination which may be secondary to crowding, infiltrates or pulmonary edema. The heart size is limited due to obscured heart."
+C2,2170,INVALID,"The X-ray shows a normal heart size and eventration of the right hemidiaphragm, which supports the statement that the heart size is normal and there is no focal airspace consolidation."
+C2,2175,INVALID,"The X-ray shows a clear left lung, slight cardiomegaly, right effusion, and right lower lobe infiltrate. The presence of two air-fluid levels in the right hemithorax suggests hydropneumothorax, which could also represent empyema with a bronchopleural fistula. The CT scan with IV contrast may be helpful"
+C2,2300,INVALID,The X-ray shows a significant increase in size of the heart from the remote comparison.
+C2,2312,INVALID,"The X-ray shows the lungs are hyperinflated with biapical pleural-parenchymal scarring and upward retraction of the lungs, similar to the prior study. There are multiple reticular-nodular opacities in the upper lobes bilaterally which appear grossly stable from the prior study. There is no evidence of focal"
+C2,2321,INVALID,"The lungs appear clear, the heart and pulmonary XXXX are normal, pleural spaces are clear, mediastinal contours are normal, and bony overlap in the lung apices could obscure a small pulmonary nodule. No acute cardio pulmonary disease."
+C2,2339,SUPPORTS,Supports
+C2,2349,INVALID,"The X-ray shows a person with a lung disease, but it does not provide enough information to determine if it is acute or chronic."
+C2,2362,SUPPORTS,Supports
+C2,2385,INVALID,"The X-ray shows a person with a lung condition, but it does not provide enough information to determine if it is hyperinflation or COPD."
+C2,2391,SUPPORTS,Supports
+C2,2392,INVALID,"The X-ray shows a deformity of the left clavicle, which is compatible with remote XXXX."
+C2,2397,INVALID,"The X-ray shows a normal heart size, mediastinal contour, and pulmonary vascularity. There is no focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax identified. The visualized osseous structures appear intact. Mild bilateral acromioclavicular joint and thor"
+C2,2423,INVALID,The X-ray does not support the statement as it shows no evidence of acute cardiopulmonary process.
+C2,2432,INVALID,"The X-ray shows a normal heart size and mediastinum, and visualized chest X-rays are within normal limits."
+C2,2460,INVALID,"The X-ray shows a normal heart size and mediastinal contour, and the lungs are free of any focal infiltrates. There is a small calcified granuloma within the left upper lobe, and no nodules or masses are visible. No pneumothorax or pleural fluid is present, and the XXXX are grossly normal. There is"
+C2,2470,INVALID,"The X-ray shows a clear view of the lungs and heart, with no signs of abnormalities or eventration."
+C2,2471,INVALID,The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. The XXXX are intact. No acute cardiopulmonary abnormalities.
+C2,2487,SUPPORTS,Supports
+C2,2515,INVALID,"The X-ray shows a small pneumothorax in the right base, which supports the statement that the heart size is normal."
+C2,2563,SUPPORTS,Supports
+C2,2572,INVALID,"The X-ray shows that the cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size, the lungs are clear of focal airspace disease, pneumothorax, or pleural effusion, and there is corticated irregularity of the right posterior 5th rib, which is secondary to an old rib fracture"
+C2,2583,INVALID,"The x-ray shows a normal heart size and no focal airspace consolidation, which supports the statement that the heart size is normal."
+C2,2591,INVALID,"The X-ray shows a mild tortuosity of the aorta, which is a normal finding. However, it does not provide any information about the heart size and vascularity, focal airspace disease or effusion, degenerative change of the spine, pneumothorax, or acute cardiopulmonary process."
+C2,2592,INVALID,"The X-ray shows an unchanged cardiomediastinal silhouette, with no focal airspace consolidation or pleural effusion. There is a midright lung small calcified granuloma, and small nodular opacities projecting over the right base in the right costophrenic sulcus, posterior right 9th rib and the anterior T10"
+C2,2605,INVALID,The presence of small bilateral pleural effusions supports the statement that the left PICC line and NG tube remain in place.
+C2,2609,INVALID,"The X-ray shows a person with cardiomegaly and interstitial pulmonary edema, with the presence of B-lines. There are nodular opacities in the lungs, which are described as XXXX and could be followed up radiographically after treatment of edema, or could be further characterized with CT."
+C2,2632,INVALID,"The X-ray shows an enlarged cardiomediastinal silhouette, low lung volumes, and a relative elevation of the right hemidiaphragm. There is no focal consolidation, pneumothorax, or large pleural effusion. The cardiomegaly is without heart failure, and there is minimal basilar scarring/atelectasis"
+C2,2638,SUPPORTS,Supports
+C2,2665,INVALID,"The X-ray shows that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C2,2714,INVALID,"The X-ray shows a clear view of the lungs and does not indicate any abnormalities, supporting the statement that the patient has stable cardiomediastinal silhouette with low lung volumes."
+C2,2731,INVALID,"The X-ray shows a normal heart size and a calcified right paratracheal lymph, but there is no evidence of tuberculosis."
+C2,2784,INVALID,"The X-ray shows a mild distention of the stomach, which could indicate a small volume effusion."
+C2,2786,INVALID,"The X-ray supports the statement as it shows normal cardiomediastinal contours, pulmonary vascularity, and no focal consolidation, pleural effusion, or pneumothorax identified."
+C2,2788,INVALID,"The x-ray shows clear lungs, no pleural effusions or pneumothoraces, and a normal heart size. There is some tortuosity of the aorta and degenerative changes in the thoracic spine."
+C2,2792,INVALID,"The X-ray shows that the cardiac and mediastinal contours are within normal limits, which supports the statement that cardiac and mediastinal contours are within normal limits. Prior granulomatous disease is also supported by the presence of the disease in the lungs. The lungs are otherwise clear, and bony structures are intact, which supports the statement that the"
+C2,2797,INVALID,"The X-ray shows that the cardiac and mediastinal contours are within normal limits, the lungs are clear, and there is a mild prominence left hilar contour. Bony structures are intact, and there are no acute preoperative findings."
+C2,2833,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, clear right lung, and stable blunting of costophrenic angles with improved aeration of the left base compared to the prior exam. There is no visualized pneumothorax or focal consolidation, and the XXXX unremarkable. The stable blunting of the left costop"
+C2,2854,INVALID,The X-ray supports the statement that the cardiomediastinal contours are within normal limits.
+C2,2855,SUPPORTS,Supports
+C2,2863,INVALID,The presence of atherosclerotic calcifications within the thoracic aorta supports the diagnosis of stable cardiomegaly.
+C2,2898,INVALID,"The X-ray shows several calcified granulomas in bilateral hilar regions, which supports the diagnosis of several calcified granulomas in bilateral hilar regions."
+C2,2899,INVALID,"The heart is large and has developed pulmonary venous engorgement, which is a sign of developing heart failure."
+C2,2915,INVALID,"The X-ray shows a moderate layering left pleural effusion, which is stable, and a partially loculated right pleural effusion. There is some pleural fluid tracking along the right fissure, and bibasilar airspace disease is possibly passive atelectasis. The heart size is within normal limits, and the right PICC tip is at the S"
+C2,2925,INVALID,"The X-ray shows a patchy opacities in the left lung base, which supports the diagnosis of atelectasis."
+C2,2953,INVALID,"The X-ray shows clear lungs and a normal heart size, with no pneumothorax or acute cardiopulmonary abnormality."
+C2,2956,INVALID,"The X-ray shows a decrease in the size of the left upper lobe and bilateral apical bullae, but the parenchymal scars are unchanged. The heart size remains normal, and there is no evidence of XXXX infiltrates in the lower lobes."
+C2,2965,INVALID,"The X-ray shows a person with emphysema, which is a chronic lung disease that causes the destruction of lung tissue."
+C2,2996,SUPPORTS,Supports
+C2,2997,SUPPORTS,Supports
+C2,3073,INVALID,The X-ray shows a clear chest with no signs of heart or lung abnormalities.
+C2,3083,SUPPORTS,Supports
+C2,3109,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, pulmonary anatomy, and central airways, indicating a stable chest with no acute disease process identified."
+C2,3112,INVALID,The X-ray does not support the statement that the heart is not enlarged.
+C2,3114,SUPPORTS,Supports
+C2,3131,SUPPORTS,Supports
+C2,3134,INVALID,"The X-ray shows the chest, lungs, heart, and knee. The lungs are clear and expanded, and the heart and mediastinum are normal. The right total knee prosthesis remains in XXXX, and the medial compartment is markedly narrow. Large osteophytes are present on the left femur and tibial lateral"
+C2,3138,INVALID,The X-ray does not provide enough information to support or contradict the statement about the heart and mediastinum being unremarkable.
+C2,3146,INVALID,"The X-ray shows a normal heart size and clear lungs, but it also shows calcified granulomas, which could indicate an underlying condition."
+C2,3181,SUPPORTS,Supports
+C2,3196,INVALID,"The x-ray shows a clear heart and lungs, which supports the statement that the heart size is normal and the lungs are clear."
+C2,3216,INVALID,"The X-ray shows a clear view of the ribcage and lungs, which supports the diagnosis of no active cardiopulmonary disease."
+C2,3227,INVALID,"The cardiac silhouette is within normal limits, and there is no definite focal infiltrate, large pleural effusion, pneumothorax, or acute cardiopulmonary disease."
+C2,3234,SUPPORTS,Supports
+C2,3258,SUPPORTS,Supports
+C2,3261,INVALID,"The X-ray shows the heart, pulmonary XXXX and mediastinum are within normal limits, there is no pleural effusion or pneumothorax, no focal air space opacity to suggest a pneumonia, mild biapical pleural thickening which is smooth, evidence of previous anterior cervical spine fusion, and degenerative changes"
+C2,3262,INVALID,"The lungs appear clear, and the heart and pulmonary XXXX are normal."
+C2,3288,INVALID,"The X-ray shows a baby's chest with a large lung area, which could indicate a chronic interstitial lung disease."
+C2,3289,INVALID,"The X-ray shows the ribs and the heart, but does not provide enough information to determine if the heart is normal in size or if there is a pneumothorax."
+C2,3291,INVALID,"The X-ray shows a mild elevation in the right hemidiaphragm and subtle patchy opacities in the lower lung bilaterally, which supports the diagnosis of persistent mild elevation right hemidiaphragm and subtle patchy opacities in the lower lung bilaterally."
+C2,3317,INVALID,"The X-ray shows a clear lung and a normal heart size, but it is inconclusive about the flowing syndesmophytes in the thoracic spine."
+C2,3346,SUPPORTS,Supports
+C2,3361,SUPPORTS,Supports
+C2,3370,INVALID,"The X-ray shows a central venous line in the mid SVC, which supports the diagnosis of a right chest central venous line. However, there is no pneumothorax, and the heart size is normal, which contradicts the diagnosis of a right chest central venous line. The image also shows no large pleural effusions or acute foc"
+C2,3373,INVALID,The X-ray shows a normal heart size and no pneumothorax or focal airspace disease.
+C2,3384,INVALID,"The X-ray shows some perihilar opacities and nodular opacities in the right upper lung zone, which may represent changes due to bronchiectasis."
+C2,3390,INVALID,"The X-ray shows a calcified granuloma in the right lower lobe, which supports the diagnosis of a lung opacification."
+C2,3427,INVALID,"The visual evidence supports the presence of sarcoidosis, as there are small nodular opacities in the right and left midlung."
+C2,3438,SUPPORTS,Supports
+C2,3458,SUPPORTS,Supports
+C2,3473,INVALID,"The X-ray shows a person's ribcage and spine, but does not provide enough information to determine if the heart is normal in size and contour."
+C2,3487,INVALID,"The X-ray shows a normal heart size and clear lungs, but there is degenerative spurring of the thoracic spine and clips overlie the right medial hilum."
+C2,3495,SUPPORTS,Supports
+C2,3522,INVALID,"The X-ray shows a person's chest and lungs, with a prominent interstitium possibly due to mild volume overload. There is improved aeration of the lung bases with small residual left basilar effusion, and no focal consolidation or pneumothorax. The cardiomegaly is stable, and the osseous structures appear int"
+C2,3524,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated but grossly clear. No acute disease.
+C2,3553,INVALID,"The X-ray shows a normal heart size and mild tortuosity of the aorta, but it does not provide enough information to determine if there is any pneumothorax, pleural effusion, or suspicious airspace opacity. Additionally, the X-ray does not show any acute abnormality."
+C2,3577,INVALID,"The X-ray shows the heart and lungs with clear and expanded lungs, and a normal heart and mediastinum. This supports the statement that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, heart and mediastinum normal, and no active disease."
+C2,3598,INVALID,The X-ray does not support the statement that there is an dextroscoliosis of the thoracic spine.
+C2,3604,INVALID,"The X-ray shows a normal heart size and clear lungs, with no signs of edema or effusions."
+C2,3625,INVALID,"The X-ray shows a stable heart size and mediastinal contours, with no focal airspace consolidation, stable calcified granuloma in the right upper lobe, and low lung volumes. There is no focal airspace disease, and the lung volumes are otherwise stable."
+C2,3629,INVALID,"The X-ray shows a clear lung and no pneumothorax or pleural effusion, supporting the statement that the lungs are clear."
+C2,3664,INVALID,"The X-ray shows a clear heart and lungs, and a central catheter tip in the distal SVC, which supports the statement that the heart is normal in size and the mediastinum is unremarkable."
+C2,3665,INVALID,"The X-ray shows a small focal nodular infiltrate in the lingula, which supports the diagnosis of infection or pneumonia."
+C2,3675,SUPPORTS,Supports
+C2,3679,INVALID,"The visual evidence supports the statement as the lungs are clear without focal area of consolidation, pleural effusion, or pneumothorax."
+C2,3693,INVALID,"The X-ray supports the statement as the lungs are clear without focal airspace opacity, large effusion, or pneumothorax."
+C2,3723,INVALID,"The X-ray shows a normal heart size and a tortuous dilated aorta, but there is minimal basilar infiltrate left base."
+C2,3728,SUPPORTS,Supports
+C2,3734,SUPPORTS,Supports
+C2,3778,INVALID,"The X-ray shows that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C2,3779,INVALID,"The X-ray shows a person with a mild case of cardiomegaly and aortic ectasia, but there is no definite pleural effusion or pulmonary edema."
+C2,3782,INVALID,The cardiomediastinal silhouette is within normal limits for appearance. Calcified right hilar lymph XXXX are demonstrated. Atherosclerotic calcifications of the aortic XXXX. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. Mild to moderate degenerative changes of
+C2,3817,SUPPORTS,Supports.
+C2,3826,INVALID,"The X-ray shows a mildly enlarged heart, a moderate hiatal hernia, and mild degenerative changes of the spine. There is no pleural effusion or pneumothorax, and no focal air space opacity to suggest a pneumonia. The pulmonary XXXX and mediastinum are within normal limits."
+C2,3836,INVALID,"The X-ray shows a sternotomy with multiple broken sternotomy clips and a fragment in the left pleural space, which supports the diagnosis of CABG."
+C2,3857,INVALID,"The heart size is at the upper limits of normal. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. Mild chronic degenerative changes are present within the thoracic spine.. No acute cardiopulmonary abnormality.."
+C2,3867,INVALID,"The X-ray shows a mild pectus excavatum deformity, which is a congenital abnormality of the chest wall."
+C2,3904,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there are no visible cardiopulmonary injuries. This supports the statement that there is no active disease and no visible cardiopulmonary injuries."
+C2,3916,INVALID,"The X-ray shows a normal and stable cardiomediastinal contours, with no pneumothorax, and slightly improved XXXX XXXX opacities obscuring the hemidiaphragms. The right-sided rib fractures are noted again, and the mildly improved XXXX XXXX opacities may represent atelectasis, infiltr"
+C2,3938,SUPPORTS,Supports
+C2,3948,INVALID,"The X-ray shows a normal heart size and mediastinal contours, low lung volumes with left basilar subsegmental atelectasis, and no focal airspace consolidation, effusions or pneumothorax. No acute bony abnormalities or acute cardiopulmonary findings are present."
+C2,3954,SUPPORTS,Supports
+C2,3958,INVALID,"The X-ray shows a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe, along with XXXX opacities and subsegmental atelectasis. The left lung is grossly clear, and the cardio mediastinal silhouette is stable compared to prior examinations."
+C2,3962,INVALID,"The x-ray shows a clear view of the lungs and the ribcage, but there is no evidence of cardiomegaly or pneumonia."
+C2,3976,INVALID,"The X-ray shows a clear heart and lungs, and no visible pneumothorax or large pleural effusion. The elevated right hemidiaphragm is a mild degenerative change of the spine."
+C3,13,SUPPORTS,Supports
+C3,15,INVALID,The X-ray shows a normal heart size and pulmonary vascular engorgement within the limits of normal.
+C3,18,INVALID,"The X-ray shows a clear chest with no signs of lung opacification or costophrenic angles, supporting the statement that cardiac and mediastinal contours are within normal limits and bony structures are intact."
+C3,27,SUPPORTS,Supports
+C3,31,INVALID,"The lungs are clear, and there is no focal consolidation, pleural effusion, or pneumothorax. The heart and mediastinum are normal size and shape, and the XXXX and soft tissues are unremarkable. No acute cardiopulmonary disease is present."
+C3,33,INVALID,"The X-ray shows a stable cardiomediastinal silhouette, with no focal pulmonary opacity, pleural effusion or pneumothorax, and no acute bony abnormality or acute cardiopulmonary abnormality."
+C3,45,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,53,INVALID,"The X-ray shows a clear chest and heart size normal, but does not provide information about the left knee."
+C3,59,SUPPORTS,Supports
+C3,62,INVALID,"The X-ray shows a clear chest and lungs, which supports the statement that the heart is normal in size and there is no pneumothorax."
+C3,64,SUPPORTS,Supports
+C3,78,INVALID,"The X-ray shows the lungs are free of any focal infiltrates, which supports the statement that the heart size is within the upper limits of normal."
+C3,92,INVALID,"The visual evidence supports the statement as the image shows a normal cardiomediastinal silhouette, central vascular markings, and lungs without any abnormalities."
+C3,97,INVALID,"The X-ray shows a normal heart size and normal mediastinal silhouette and pulmonary vascularity, with no focal airspace consolidation, pleural effusion or pneumothorax."
+C3,115,INVALID,"The X-ray shows a normal cardiopulmonary silhouette, normal heart size, and clear lungs without any pulmonary effusions or pneumothorax. This supports the conclusion that the cardiopulmonary silhouette is normal, the heart size is normal, and the lungs are clear with no pulmonary effusions or pneumoth"
+C3,126,INVALID,"The X-ray shows clear lungs with no evidence of focal consolidation, pneumothorax, or pleural effusion. The cardiomediastinal silhouette is unremarkable, and the osseous structures of the thorax are without acute abnormality."
+C3,131,INVALID,The cardiomediastinal silhouette is within normal limits. The lungs are clear without areas of focal consolidation. No pneumothorax or large pleural effusion. No acute bone abnormality. No acute cardiopulmonary process.
+C3,143,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,160,INVALID,"The X-ray shows a clear lung and cardiac silhouette, which supports the normal limits of the cardiomediastinal silhouette and pulmonary vasculature."
+C3,163,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there is no pneumothorax or pleural effusion. The negative chest X-ray supports the conclusion that the lungs are clear and the cardiomediastinal silhouette is within normal limits."
+C3,168,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,177,INVALID,The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. No acute cardiopulmonary abnormality.
+C3,182,INVALID,"The X-ray shows a clear heart and lungs, indicating that the heart size is normal and the lungs are clear."
+C3,185,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is within normal limits and there is no focal airspace disease, pleural effusion, or acute cardiopulmonary findings."
+C3,187,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear."
+C3,202,INVALID,The visual evidence supports the statement that the lungs and pleural spaces show no acute abnormality.
+C3,206,INVALID,"The X-ray shows a clear heart and lungs without any infiltrate or pneumothorax, indicating that the heart is normal in size and contour and there is no acute cardiopulmonary disease."
+C3,210,INVALID,"The X-ray does not show any focal areas of consolidation or suspicious pulmonary opacities, and the heart size is within normal limits."
+C3,227,INVALID,"The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. No acute cardiopulmonary process."
+C3,230,INVALID,"The X-ray shows the lungs are clear of focal airspace disease, pneumothorax, or pleural effusion, and there are no acute bony findings or acute cardiopulmonary findings."
+C3,237,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,240,INVALID,"The X-ray shows a clear chest and lungs, with no signs of pleural effusions or pneumothoraces, which supports the statement that the heart size and vascularity are normal and the mediastinal contour is also normal."
+C3,248,INVALID,"The X-ray shows a normal heart size, mediastinal contour, and lungs, with no visible focal infiltrates, nodules, or masses. There is no pneumothorax or pleural fluid, and the diaphragm is clear. The X-ray supports the normal cardiopulmonary process."
+C3,257,SUPPORTS,Supports
+C3,258,INVALID,"The x-ray shows a normal cardiomediastinal silhouette and clear lungs, indicating that there are no effusions, consolidation or pneumothorax, and supporting the normal chest xray."
+C3,267,INVALID,"The X-ray shows no signs of pneumothorax, pleural effusion or airspace consolidation, and the heart size is within the upper limits of normal. The pulmonary vasculature appears within normal limits, and the XXXX XXXX are intact. There are no acute cardiopulmonary abnormalities visible in the image."
+C3,268,SUPPORTS,Supports
+C3,277,SUPPORTS,Supports
+C3,278,INVALID,"The X-ray shows a clear chest with no signs of lung opacification or costophrenic angles, supporting the normal limits of cardiac and mediastinal contours and bony structures."
+C3,285,SUPPORTS,Supports
+C3,288,SUPPORTS,Supports
+C3,292,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is normal and the lungs are clear."
+C3,296,SUPPORTS,Supports
+C3,300,INVALID,"The X-ray shows a normal heart size and no focal airspace consolidations, pneumothorax or pleural effusion, or acute cardiopulmonary findings."
+C3,313,INVALID,"The lungs appear clear, the heart and pulmonary XXXX appear normal, the mediastinal contours are normal, and the pleural spaces are clear. There is contrast XXXX within small colonic diverticula in the splenic flexure region. The X-ray does not support the statement that there is no acute cardiopulmonary disease."
+C3,315,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, no focal areas of pulmonary consolidation, no pneumothorax, no pleural effusion, and the thoracic spine appears intact."
+C3,322,INVALID,"The x-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,323,INVALID,"The X-ray shows that the heart size is within normal limits and there is no focal consolidation, pneumothorax or pleural effusion."
+C3,329,SUPPORTS,Supports
+C3,333,SUPPORTS,Supports
+C3,349,INVALID,"The X-ray shows a normal heart size and clear lungs, which supports the statement that the heart size is normal and no displaced bony injuries are present."
+C3,355,INVALID,"The x-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette, which supports the statement that cardiac and mediastinal contours are within normal limits."
+C3,371,SUPPORTS,Supports
+C3,376,INVALID,"The X-ray shows clear lungs, no pleural effusions or pneumothoraces, and a normal heart and mediastinum."
+C3,379,INVALID,"The X-ray shows a normal heart size and no focal airspace disease, pneumothorax or effusions. The pelvis has numerous clips overlying the pelvis and lower abdomen, and there are no pathologic calcifications. The hip joint spaces are symmetric and normal, and the sacroiliac joints are unremarkable. No fract"
+C3,395,INVALID,"The lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax unremarkable. Negative for acute cardiopulmonary abnormality."
+C3,398,INVALID,"The X-ray supports the statement as it shows a normal cardiomediastinal silhouette, pulmonary vasculature within normal limits, and well-aerated lungs without any signs of pneumothorax, pleural effusion, or focal consolidation."
+C3,403,INVALID,"The x-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette. The pleural space is also clear, indicating that the bony structures are intact and the cardiac and mediastinal contours are within normal limits."
+C3,414,INVALID,"The lungs are clear, the heart and pulmonary XXXX are normal, the pleural spaces are clear, and the mediastinal contours are normal."
+C3,420,INVALID,"The lungs are clear, the heart and pulmonary XXXX are normal, the pleural spaces are clear, and the mediastinal contours are normal."
+C3,436,INVALID,"The X-ray shows a clear chest with no signs of lung opacification or costophrenic angles, supporting the statement that cardiac and mediastinal contours are within normal limits and bony structures are intact."
+C3,439,INVALID,"The x-ray shows a normal heart size and clear lungs, with no signs of pleural effusions or pneumothorax."
+C3,442,INVALID,"The X-ray shows the lungs are clear and the cardiac and mediastinal contours are within normal limits, supporting the statement that cardiac and mediastinal contours are within normal limits. The bony structures are intact and there are no acute findings, which also supports the statement that no acute findings are present."
+C3,443,SUPPORTS,Supports
+C3,452,INVALID,"The X-ray shows a clear heart and lungs, with no focal air space consolidations, pleural effusions or pneumothoraces, and normal hilar and mediastinal contours. The pulmonary vascularity is also normal, and there are no acute abnormalities."
+C3,462,SUPPORTS,Supports
+C3,465,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, clear lungs, and unremarkable soft tissues and bony structures. There is no pneumothorax or pleural effusion, and the examination of the chest is unremarkable."
+C3,468,INVALID,"The x-ray shows clear lungs with no visible adenopathy or significant scarring, and no active pulmonary disease."
+C3,469,INVALID,"The x-ray shows a clear view of the lungs and surrounding structures, indicating that there is no active disease."
+C3,472,INVALID,The heart is at the upper limits of normal in size. The pulmonary vascularity is within normal limits in appearance. No focal air space opacities. No pleural effusions or pneumothorax. No acute bony abnormalities. No acute cardiopulmonary abnormalities.
+C3,491,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,493,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size and pulmonary vascularity are within normal limits and there is no focal airspace disease, pleural effusion or pneumothorax, and no evidence of active disease."
+C3,495,INVALID,"The X-ray shows a normal heart size and cardiomediastinal silhouette, normal pulmonary vasculature, and no focal air space consolidation or pleural effusion or pneumothorax."
+C3,509,INVALID,"The X-ray does not support the statement as it shows no focal consolidation, pneumothorax or definite pleural effusion."
+C3,516,INVALID,"The X-ray shows the heart size and mediastinal contours within normal limits, and there are no focal airspace consolidation, pleural effusion or pneumothorax, and no acute bony abnormalities or acute cardiopulmonary findings."
+C3,517,INVALID,The X-ray shows a clear lung and no pleural effusion or pneumothorax.
+C3,521,INVALID,"The X-ray supports the normal cardiomediastinal contours, lungs, pleura, osseous structures and visualized upper abdomen."
+C3,530,INVALID,"The X-ray shows both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,540,INVALID,"The X-ray shows a clear view of the ribcage and lungs, indicating that the cardiomediastinal silhouette and pulmonary vasculature are within normal limits."
+C3,541,SUPPORTS,Supports
+C3,547,INVALID,"The x-ray shows a clear view of the lungs and trachea, indicating that the heart size is normal and there are no signs of pneumothorax, pleural effusion, or acute cardiopulmonary abnormalities."
+C3,564,SUPPORTS,Supports
+C3,583,INVALID,"The X-ray shows a clear heart and lungs, and no large pleural effusion or pneumothorax, supporting the statement that the heart is normal in size and contour, and the lungs are clear bilaterally."
+C3,590,INVALID,"The X-ray supports the statement that the heart size is normal, the mediastinal contour is within normal limits, the lungs are free of any focal infiltrates, there are no nodules or masses, no visible pneumothorax, no visible pleural fluid, the XXXX are grossly normal, and there is no visible free intraperitone"
+C3,593,INVALID,"The X-ray does not show any focal consolidation, pneumothorax, large pleural effusions, or acute cardiopulmonary findings, supporting the normal functioning of the heart and lungs."
+C3,596,SUPPORTS,Supports
+C3,601,INVALID,"The X-ray shows a clear heart and lungs, with no evidence of tuberculosis."
+C3,604,SUPPORTS,Supports
+C3,607,INVALID,"The X-ray shows that the lungs are clear, there is no focal airspace consolidation, no suspicious pulmonary mass or nodule is identified, there is no pleural effusion or pneumothorax, heart size and mediastinal contour are within normal limits, and no evidence of active disease."
+C3,613,SUPPORTS,Supports
+C3,635,INVALID,The X-ray shows the lungs are free of focal airspace disease and there is no pleural effusion or pneumothorax.
+C3,637,SUPPORTS,Supports
+C3,640,INVALID,"The X-ray shows clear lungs and a normal heart size, with unremarkable XXXX and no acute cardiopulmonary findings."
+C3,643,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear. The costophrenic angles are visible, and the cardiac silhouette is also clear. The pleural space is also"
+C3,646,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear."
+C3,686,INVALID,"The X-ray supports the statement as it shows the cardiomediastinal contours within normal limits, pulmonary vasculature unremarkable, no focal airspace opacity, no pleural effusion or pneumothorax, and no acute bony abnormality or acute cardiopulmonary abnormality."
+C3,688,INVALID,"The x-ray shows a clear chest and lungs, and no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is also normal."
+C3,694,INVALID,"The X-ray shows a clear chest with no signs of acute findings, supporting the statement that cardiac and mediastinal contours are within normal limits and the lungs are clear."
+C3,699,INVALID,"The X-ray supports the statement as it shows no lung opacification, costophrenic angles, or pleural space."
+C3,701,SUPPORTS,Supports
+C3,714,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,736,INVALID,"The X-ray shows a clear heart and lungs, which supports the statement that the heart size is normal and the lungs are clear."
+C3,738,SUPPORTS,Supports
+C3,745,INVALID,"The X-ray shows a stable heart size and a mediastinal silhouette, with no overt edema, focal consolidation, pleural effusion or pneumothorax."
+C3,783,INVALID,"The X-ray shows a clear and well-expanded lung, with no acute cardiopulmonary abnormality identified."
+C3,805,SUPPORTS,Supports
+C3,812,SUPPORTS,Supports
+C3,834,INVALID,"The X-ray shows a clear chest with no signs of lung opacification or costophrenic angles, supporting the statement that cardiac and mediastinal contours are within normal limits and bony structures are intact."
+C3,838,SUPPORTS,Supports
+C3,840,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality. Negative for acute abnormality."
+C3,847,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C3,854,INVALID,"The X-ray shows a clear chest with normal heart size and lungs, but it does not provide any information about the right knee."
+C3,858,SUPPORTS,Supports
+C3,859,SUPPORTS,Supports
+C3,861,SUPPORTS,Supports
+C3,867,INVALID,"The x-ray shows a normal heart size and clear lungs, with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The chest appears normal."
+C3,868,INVALID,"The x-ray shows a normal cardiac silhouette, normal mediastinal contour, and normal lung volumes, which supports the statement that the frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette."
+C3,877,SUPPORTS,Supports
+C3,878,INVALID,"The X-ray shows clear lungs and a normal heart size, which supports the statement that the lungs are clear and there are no acute cardiopulmonary abnormalities."
+C3,890,INVALID,"The x-ray shows a cardiac silhouette within normal limits, with no edema or airspace consolidation, no pneumothorax, no pleural effusion, and no evidence of acute cardiopulmonary process."
+C3,902,INVALID,"The x-ray shows a normal cardiomediastinal contours, no pneumothorax or pleural effusions, no focal lung consolidation, and no acute cardiopulmonary abnormalities."
+C3,903,INVALID,The X-ray does not support the statement as it shows no evidence of acute cardiopulmonary process.
+C3,907,INVALID,"The lungs are clear, the heart and pulmonary XXXX are normal, the pleural spaces are clear, and the mediastinal contours are normal."
+C3,922,SUPPORTS,Supports
+C3,930,INVALID,The visual evidence supports the statement as the lungs are clear and there are no acute findings.
+C3,945,SUPPORTS,Supports
+C3,955,SUPPORTS,Supports
+C3,963,SUPPORTS,Supports
+C3,969,INVALID,"The X-ray shows clear lungs, no pleural effusions or pneumothoraces, and a normal heart and mediastinum."
+C3,973,INVALID,"The x-ray shows a clear heart and lungs, which supports the statement that the heart size is normal and there are no large pleural effusions or pneumothorax."
+C3,979,SUPPORTS,Supports
+C3,992,INVALID,"The X-ray shows that the lung volumes are normal, the lungs are clear, and there are no pleural effusions. The report indicates that the bony elements are not remarkable, and no acute cardiopulmonary abnormalities are seen."
+C3,997,INVALID,The X-ray does not provide enough information to support or contradict the statement.
+C3,1016,SUPPORTS,Supports
+C3,1020,INVALID,"The X-ray shows that the cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size, the lungs are clear of focal airspace disease, pneumothorax, or pleural effusion, and there are no acute bony findings. No acute cardiopulmonary findings."
+C3,1033,SUPPORTS,Supports
+C3,1037,INVALID,"The lungs are clear, which supports the statement that no pleural effusion is seen."
+C3,1044,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,1053,SUPPORTS,Supports
+C3,1058,SUPPORTS,Supports
+C3,1070,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size and pulmonary vascularity are within normal limits."
+C3,1073,SUPPORTS,Supports
+C3,1076,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is within normal limits and there are no focal airspace disease, pneumothorax or effusion, or acute cardiopulmonary findings."
+C3,1088,INVALID,"The X-ray shows a clear and healthy lung, with no signs of disease or abnormalities."
+C3,1097,INVALID,"The X-ray shows a clear view of the lungs and heart, with no visible signs of consolidation or abnormalities."
+C3,1104,INVALID,"The x-ray shows clear lungs with no pleural effusions or pneumothoraces, and a normal heart and mediastinum."
+C3,1113,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size and pulmonary vascularity are within normal limits."
+C3,1116,SUPPORTS,Supports
+C3,1119,SUPPORTS,Supports
+C3,1128,INVALID,"The X-ray shows the heart and lungs are within normal limits, and there is no evidence of active disease."
+C3,1129,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are grossly clear. No acute infiltrate.
+C3,1130,INVALID,"The X-ray shows a clear heart and lungs, indicating that the heart size is normal and the lungs are clear."
+C3,1145,SUPPORTS,Supports
+C3,1152,SUPPORTS,Supports
+C3,1154,INVALID,"The X-ray shows a normal heart size and no focal airspace disease, pneumothorax or effusions, or acute cardiopulmonary findings."
+C3,1164,SUPPORTS,Supports
+C3,1166,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,1180,INVALID,"The heart is normal size. The mediastinum is unremarkable. There is no pleural effusion, pneumothorax, or focal airspace disease. The XXXX are unremarkable. No acute cardiopulmonary abnormality."
+C3,1184,INVALID,"The x-ray does not show any focal lung consolidation, pneumothorax, or large pleural effusion, and the heart size and pulmonary vascularity are within normal limits."
+C3,1203,INVALID,"The X-ray shows a clear view of the ribcage and lungs, indicating that there is no focal lung consolidation, and the heart size and pulmonary vascularity are within normal limits."
+C3,1208,INVALID,"The X-ray shows the lungs are clear and the cardiac and mediastinal contours are within normal limits, supporting the statement that cardiac and mediastinal contours are within normal limits. The bony structures are also intact, which is consistent with the statement that bony structures are intact. However, the X-ray does not provide information about pleural space,"
+C3,1214,SUPPORTS,Supports
+C3,1217,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. This supports the conclusion that there is no acute pulmonary disease."
+C3,1220,INVALID,"The x-ray shows a clear chest with no focal consolidation, effusion, or pneumothorax. The heart size is normal, and there are no suspicious pulmonary nodules or masses. The bony thorax and soft tissues are grossly unremarkable, and there is no radiographic evidence of acute cardiopulmonary abnormal"
+C3,1235,INVALID,"The X-ray supports the statement that the trachea is midline, the cardiomediastinal silhouette is normal, the lungs are clear, and there is no pneumothorax."
+C3,1241,INVALID,"The X-ray shows the cardiac silhouette, upper mediastinum, and pulmonary vasculature within normal limits, with no acute air space infiltrate, pleural effusion, or pneumothorax. The visualized osseous structures are intact, and there is no acute cardiopulmonary process."
+C3,1243,INVALID,"The X-ray shows the lungs are free of any focal infiltrates, which supports the normal heart size and mediastinal contour."
+C3,1245,SUPPORTS,Supports
+C3,1248,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C3,1257,SUPPORTS,Supports
+C3,1261,SUPPORTS,Supports
+C3,1276,INVALID,"The X-ray does not show any visible active cardiopulmonary disease in the chest, but it does show advanced posttraumatic osteoarthritis in the left hip."
+C3,1295,SUPPORTS,Supports
+C3,1317,INVALID,"The X-ray shows a clear chest with no signs of infiltrate, effusion or pneumothorax, and no acute cardiopulmonary disease."
+C3,1326,INVALID,"The X-ray shows that the cardiac and mediastinal contours are within normal limits, the lungs are clear, and bony structures are intact."
+C3,1333,INVALID,"The lungs are grossly clear without focal pneumonic consolidation, large effusion or pneumothorax. Heart size is within normal limits. Clear lungs."
+C3,1371,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size is within normal limits."
+C3,1373,SUPPORTS,Supports
+C3,1386,INVALID,"The X-ray shows a clear chest with no signs of pneumothorax or pleural effusion, and the heart and mediastinum are within normal limits."
+C3,1392,INVALID,The cardiomediastinal silhouette is normal in size and appearance. No pleural effusion or pneumothorax. Lungs are clear. Normal chest.
+C3,1393,INVALID,The x-ray shows a clear chest with no signs of pneumothorax or pleural effusion.
+C3,1399,INVALID,"The x-ray shows a normal heart size and no focal airspace consolidations, pneumothorax or pleural effusion, or acute cardiopulmonary findings."
+C3,1413,SUPPORTS,Supports
+C3,1419,SUPPORTS,Supports
+C3,1439,SUPPORTS,Supports
+C3,1441,INVALID,"The X-ray supports the statement that the cardiomediastinal silhouette is within normal limits for appearance, and there are no focal areas of pulmonary consolidation, pneumothorax, pleural effusion, or acute cardiopulmonary process."
+C3,1443,INVALID,The visual evidence supports the statement that the heart size is normal and the lungs are clear.
+C3,1445,INVALID,"The x-ray shows a clear view of the lungs and heart, indicating that the heart size and mediastinal contour are within normal limits and there are no focal airspace consolidation, pneumothorax, or large pleural effusion."
+C3,1458,INVALID,"The lungs are clear, the heart size is normal, there is no pneumothorax, and the lungs are clear. The image does not show any acute cardiopulmonary abnormality."
+C3,1479,INVALID,The X-ray shows a clear chest with no signs of pneumothorax or large pleural effusion.
+C3,1483,SUPPORTS,Supports
+C3,1508,INVALID,"The X-ray shows the lungs are clear and the cardiac and mediastinal contours are within normal limits, which supports the statement that cardiac and mediastinal contours are within normal limits. The bony structures are also intact, which supports the statement that bony structures are intact. However, the presence of pleural space is inconclusive, as it could"
+C3,1513,INVALID,"The X-ray shows a clear chest with no signs of lung infiltrates, pulmonary edema, or pleural effusions, supporting the conclusion that the lungs are clear and normal."
+C3,1527,SUPPORTS,Supports
+C3,1534,SUPPORTS,Supports
+C3,1546,INVALID,"The X-ray shows a clear heart and lungs, indicating that the heart size is normal and the lungs are clear."
+C3,1554,SUPPORTS,Supports
+C3,1564,SUPPORTS,Supports
+C3,1565,INVALID,"The X-ray shows a normal heart size and a normal mediastinal silhouette, which supports the statement that the heart size is normal and there are no pneumothorax, pleural effusion or suspicious focal air space opacity."
+C3,1567,SUPPORTS,Supports
+C3,1572,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,1591,SUPPORTS,Supports
+C3,1610,SUPPORTS,Supports
+C3,1617,SUPPORTS,Supports
+C3,1621,INVALID,"The X-ray shows a normal heart size and no signs of pneumothorax, pleural effusion, or focal airspace disease. The bony structures appear intact, and the chest radiograph is normal."
+C3,1625,INVALID,"The x-ray shows a clear view of the lungs and heart, indicating that the upper limits of the heart are normal and the lungs are clear."
+C3,1626,INVALID,"The x-ray shows clear lungs and a normal heart size, with no pneumothorax or large pleural effusion, and no acute cardiopulmonary findings."
+C3,1631,SUPPORTS,Supports
+C3,1650,INVALID,The heart is normal in size. The mediastinum is stable. The lungs are clear. No acute disease.
+C3,1651,SUPPORTS,Supports
+C3,1666,INVALID,"The X-ray shows a clear heart and lungs, and no large pleural effusion or pneumothorax, which supports the statement that the heart is normal in size and contour, and the lungs are clear bilaterally."
+C3,1676,SUPPORTS,Supports
+C3,1678,INVALID,"The X-ray shows a normal cardiomediastinal silhouette with no acute infiltrates, effusions, or evidence of pneumothorax. The trachea is midline, and the visualized bony structures are intact with no acute abnormalities."
+C3,1685,INVALID,"The x-ray shows a clear view of the ribcage and the heart, which supports the statement that the heart size is within normal limits for the technique."
+C3,1686,SUPPORTS,Supports
+C3,1693,INVALID,"The X-ray shows a clear chest and lungs, and no signs of heart or lung issues."
+C3,1711,INVALID,"The X-ray shows a clear heart and lungs, and normal pleural spaces, which supports the statement that the lungs are clear and the heart and pulmonary XXXX are normal."
+C3,1731,INVALID,"The x-ray shows a normal heart size and no focal airspace disease, pneumothorax or effusion, or acute cardiopulmonary finding."
+C3,1736,INVALID,"The x-ray shows a clear chest and lungs, with no signs of effusions or pneumothorax, and visualized osseous structures are unremarkable. This supports the statement that the heart size and vascularity are normal, and the lungs are clear."
+C3,1738,SUPPORTS,Supports
+C3,1750,INVALID,"The X-ray shows a normal heart size and stable cardiomediastinal silhouette, clear lungs without focal airspace opacity, pneumothorax, or pleural effusion, and normal XXXX appearance. There is no acute cardiopulmonary finding."
+C3,1753,SUPPORTS,Supports
+C3,1759,SUPPORTS,Supports
+C3,1764,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size and pulmonary vascularity are within normal limits."
+C3,1771,INVALID,"The X-ray shows a normal heart size and cardiomediastinal silhouette, normal pulmonary vasculature, and no focal air space consolidation or pleural effusion or pneumothorax."
+C3,1781,INVALID,"The X-ray shows a normal heart size and clear lungs, with no pneumothorax or large pleural effusion, and no acute cardiopulmonary findings."
+C3,1784,INVALID,"The X-ray shows a normal heart size, mediastinal contour, and pulmonary vascularity, with no focal consolidation, suspicious pulmonary opacity, large pleural effusion, or pneumothorax identified. The visualized osseous structures appear intact, and there is no acute cardiopulmonary abnormality."
+C3,1801,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,1804,SUPPORTS,Supports
+C3,1811,SUPPORTS,Supports
+C3,1818,INVALID,"The x-ray shows clear lungs and a normal heart size, indicating that there is no edema or pneumonia, and no effusion."
+C3,1833,INVALID,"The x-ray shows a normal heart size and pulmonary vascularity, with no focal infiltrate, pneumothorax or pleural effusion identified, and no acute cardiopulmonary disease."
+C3,1872,SUPPORTS,Supports
+C3,1875,INVALID,The X-ray shows a clear chest with no signs of disease or abnormalities.
+C3,1897,SUPPORTS,Supports
+C3,1943,SUPPORTS,Supports
+C3,1946,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear."
+C3,1949,SUPPORTS,Supports
+C3,1957,INVALID,"The cardiomediastinal silhouette is within normal limits for size. Pulmonary vasculature is within normal limits. No focal consolidations, effusions, or pneumothoraces. No acute bony abnormality. No acute cardiopulmonary abnormality."
+C3,1965,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there is no pneumothorax or pleural effusion. The negative chest X-ray supports the conclusion that the lungs are clear."
+C3,1991,INVALID,"The X-ray shows a clear cardiomediastinal silhouette and intact bony structures, which supports the statement that there is no pneumothorax, pleural effusion, or focal airspace disease."
+C3,2006,INVALID,"The x-ray shows a clear view of the lungs and heart, indicating that there are no signs of pneumothorax or pleural effusion, and the chest exam is normal."
+C3,2007,INVALID,"The X-ray shows a normal heart size and no focal airspace disease, pneumothorax or effusions, or acute cardiopulmonary findings."
+C3,2014,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,2021,SUPPORTS,Supports
+C3,2022,INVALID,"The x-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal and the lungs are clear."
+C3,2044,INVALID,"The X-ray shows a clear view of the lungs and the heart, with no signs of pulmonary edema or acute findings. The mediastinal and hilar contours appear stable, and there is no focal alveolar consolidation or pleural effusion."
+C3,2046,SUPPORTS,Supports
+C3,2048,INVALID,"The X-ray shows a clear heart and lungs, which supports the statement that the heart size is normal and the lungs are clear."
+C3,2062,INVALID,"The x-ray shows a normal heart size and a normal mediastinal silhouette, which supports the statement that the heart size is normal and there are no pneumothorax, pleural effusion or suspicious focal air space opacity."
+C3,2072,INVALID,"The visual evidence supports the statement that cardiac size, mediastinal contour, and pulmonary vascularity are within normal limits."
+C3,2080,SUPPORTS,Supports
+C3,2082,SUPPORTS,Supports
+C3,2092,SUPPORTS,Supports
+C3,2093,INVALID,"The X-ray shows the heart and lungs are within normal limits, and there is no evidence of active disease."
+C3,2109,SUPPORTS,Supports
+C3,2112,INVALID,"The x-ray shows a normal heart size and pulmonary vascularity, and the lungs are free of focal airspace disease."
+C3,2113,SUPPORTS,Supports
+C3,2121,INVALID,"The image shows a clear view of the heart and lungs, indicating that the heart size is normal and the lungs are clear."
+C3,2123,SUPPORTS,Supports
+C3,2128,INVALID,"The X-ray shows a clear cardiomediastinal silhouette and lungs without focal consolidation, which supports the statement that the cardiomediastinal silhouette is within normal limits and the lungs are clear."
+C3,2133,INVALID,"The X-ray shows a clear chest and lungs, which supports the statement that the heart size is normal and the lungs are clear."
+C3,2138,SUPPORTS,Supports
+C3,2144,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear."
+C3,2164,SUPPORTS,Supports
+C3,2166,INVALID,"The X-ray supports the statement that the cardiomediastinal silhouette is within normal limits for size and contour, the lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax, and there are no acute bone abnormalities or acute cardiopulmonary processes."
+C3,2167,INVALID,"The X-ray shows a normal heart silhouette and no focal infiltrates in the lungs, which supports the conclusion that there is no acute pulmonary disease."
+C3,2172,SUPPORTS,Supports
+C3,2180,SUPPORTS,Supports
+C3,2181,INVALID,"The x-ray shows a normal heart size and clear lungs, which supports the statement that the heart size is normal and the lungs are clear."
+C3,2188,INVALID,"The cardiomediastinal silhouette is normal in size and contour. The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact. No acute cardiopulmonary process."
+C3,2191,SUPPORTS,Supports
+C3,2194,INVALID,The cardiac silhouette and mediastinum size are within normal limits. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of pleural effusion. There is no evidence of pneumothorax. No acute abnormality.
+C3,2211,INVALID,"The image shows a chest x-ray of a person, which indicates that the heart size is within normal limits and there are no focal alveolar consolidation, definite pleural effusion, typical findings of pulmonary edema, pneumothorax, or acute cardiopulmonary findings."
+C3,2224,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette. The pleural space is also clear, which supports the normal heart size and cardiomediastinal contours."
+C3,2235,INVALID,"The lungs are clear, the heart size and mediastinal contours are normal, and there are no osseous abnormalities."
+C3,2246,INVALID,The x-ray shows a clear heart and lungs with no nodules or masses.
+C3,2266,INVALID,"The x-ray shows a clear view of the lungs and heart, indicating that the heart size is normal and the lungs are clear."
+C3,2267,SUPPORTS,Supports.
+C3,2271,SUPPORTS,Supports
+C3,2275,INVALID,"The X-ray shows a clear heart and lungs, and no abnormalities are visible."
+C3,2279,INVALID,"The x-ray shows a clear heart and lungs, with no signs of pneumonia or effusion."
+C3,2280,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality. Negative."
+C3,2287,INVALID,"The X-ray shows a clear chest with no signs of lung opacification or costophrenic angles, which supports the statement that cardiac and mediastinal contours are within normal limits."
+C3,2293,SUPPORTS,Supports
+C3,2320,SUPPORTS,Supports
+C3,2327,INVALID,"The X-ray supports the statement that the cardiomediastinal silhouette is within normal limits for size and contour, the lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax, and there are no acute bone abnormalities or acute cardiopulmonary processes."
+C3,2331,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C3,2334,SUPPORTS,Supports
+C3,2343,SUPPORTS,Supports
+C3,2347,SUPPORTS,Supports
+C3,2363,SUPPORTS,Supports
+C3,2364,INVALID,"The X-ray shows a clear chest with no signs of pneumothorax or large pleural effusion, supporting the statement that the mediastinal contours are normal and there are no acute cardiopulmonary abnormalities."
+C3,2375,SUPPORTS,Supports
+C3,2390,SUPPORTS,Supports
+C3,2403,SUPPORTS,Supports
+C3,2408,SUPPORTS,Supports
+C3,2415,SUPPORTS,Supports
+C3,2417,SUPPORTS,Supports
+C3,2422,INVALID,The X-ray shows a clear chest with no signs of disease or abnormalities.
+C3,2424,SUPPORTS,Supports
+C3,2427,SUPPORTS,Supports
+C3,2428,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,2439,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute displaced rib fracture. No discrete XXXX projectile visualized. Contrast within the bilateral renal collecting systems. Contrast also probably within the left"
+C3,2455,SUPPORTS,Supports
+C3,2465,INVALID,"The x-ray shows a normal heart and mediastinum, no focal consolidation, no pleural effusion or pneumothorax, and intact bony structures."
+C3,2475,INVALID,"The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. The lungs are well-aerated. There is no pneumothorax, pleural effusion, or focal consolidation. No acute cardiopulmonary disease."
+C3,2482,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. This supports the conclusion that there is no acute pulmonary disease."
+C3,2488,SUPPORTS,Supports
+C3,2492,INVALID,The cardiomediastinal silhouette is normal in size and appearance. There is no pneumothorax or pleural effusion. The lung zones are clear. There are no bony abnormalities Unremarkable chest.
+C3,2502,SUPPORTS,Supports
+C3,2512,SUPPORTS,Supports
+C3,2513,SUPPORTS,Supports
+C3,2516,INVALID,"The X-ray shows a clear view of the lungs and cardiovascular system, indicating that the cardiomediastinal silhouette and pulmonary vasculature are within normal limits."
+C3,2524,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size and the lungs are clear."
+C3,2528,INVALID,"The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact. No acute, displaced rib fractures identified. 1. No acute intrathoracic abnormality."
+C3,2532,INVALID,"The X-ray shows a clear chest and lungs, which supports the idea that the heart size is normal and the lungs are clear."
+C3,2536,INVALID,"The X-ray shows a normal heart and normal pulmonary vascularity, with no focal air space opacities, pleural effusions or pneumothorax, and no acute bony abnormalities or acute cardiopulmonary abnormalities."
+C3,2537,SUPPORTS,Supports
+C3,2543,SUPPORTS,Supports
+C3,2547,SUPPORTS,Supports
+C3,2548,INVALID,"The x-ray shows clear lungs without any focal consolidation, effusion, or pneumothorax. The heart size is normal, and the bony thorax and soft tissues are grossly unremarkable. The image is negative for acute cardiopulmonary abnormality."
+C3,2568,INVALID,"The X-ray shows the lungs are clear and the cardiomediastinal silhouette is within normal limits, which supports the statement that the lungs are clear and the cardiomediastinal silhouette is within normal limits."
+C3,2569,SUPPORTS,Supports
+C3,2580,SUPPORTS,Supports
+C3,2585,INVALID,The cardiomediastinal silhouette is within normal limits for appearance. No focal areas of pulmonary consolidation. No pneumothorax. No pleural effusion. The thoracic spine appears intact. 1. No acute cardiopulmonary process.
+C3,2589,SUPPORTS,Supports
+C3,2615,SUPPORTS,Supports
+C3,2617,SUPPORTS,Supports
+C3,2633,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,2639,INVALID,The X-ray shows a clear heart and lungs without any infiltrate or pneumothorax. The multiple punctate round spots on the abdomen are inconclusive and may be outside the patient.
+C3,2653,SUPPORTS,Supports
+C3,2661,INVALID,"The X-ray shows a normal heart size, normal pulmonary vasculature, normal mediastinal contours, and clear lung parenchyma, which supports the statement that the heart size is normal and there are no airspace disease or pleural effusions."
+C3,2666,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette. The pleural space is also clear, indicating that the bony structures are intact and the cardiac and mediastinal contours are within normal limits."
+C3,2681,INVALID,"The X-ray shows a clear and normal silhouette of the cardiomediastinal area and vasculature, with no acute radiographic cardiopulmonary process."
+C3,2685,SUPPORTS,Supports
+C3,2687,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette. The pleural space is also clear, indicating that the bony structures are intact and there are no acute findings."
+C3,2728,SUPPORTS,Supports
+C3,2729,INVALID,"The X-ray shows a clear heart and lungs, indicating that the heart size is normal and the lungs are clear."
+C3,2743,SUPPORTS,Supports
+C3,2756,INVALID,"The lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal."
+C3,2774,SUPPORTS,Supports
+C3,2776,INVALID,"The X-ray shows a normal heart size, cardiomediastinal silhouette, and pulmonary vasculature, with no infiltrates, effusions, or pneumothorax, and no acute cardiopulmonary process."
+C3,2777,SUPPORTS,Supports
+C3,2789,INVALID,"The X-ray shows that both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease."
+C3,2795,INVALID,"The X-ray supports the presence of a clear bilateral lung, a cardiomediastinal silhouette within limits, and postoperative changes from spinal rods. However, it is inconclusive about the presence of a left humeral head positioned anterior and inferior to the glenoid, which is related to muscular dystrophy and decreased shoulder mus"
+C3,2803,SUPPORTS,Supports
+C3,2812,SUPPORTS,Supports
+C3,2821,SUPPORTS,Supports
+C3,2828,INVALID,The x-ray shows a clear chest with no signs of heart or lung issues.
+C3,2835,SUPPORTS,Supports
+C3,2848,INVALID,"The X-ray shows a clear heart and lungs, and no abnormalities are visible."
+C3,2874,SUPPORTS,Supports
+C3,2887,INVALID,"The X-ray shows that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are normal, and there is no active disease. This supports the statement that the heart and lungs have XXXX XXXX in the interval, both lungs are clear and expanded, the heart and mediastinum are"
+C3,2890,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, lungs without focal airspace disease, pleural effusion, or pneumothorax, and no acute osseus abnormality. The bilateral scapula appear unremarkable."
+C3,2891,SUPPORTS,Supports
+C3,2892,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is normal and the lungs are clear."
+C3,2904,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal, and the lungs are clear."
+C3,2911,INVALID,"The X-ray shows a clear and normal silhouette of the cardiomediastinal area and lungs, with no signs of acute cardiopulmonary processes."
+C3,2930,SUPPORTS,Supports
+C3,2939,INVALID,"The cardiac silhouette, mediastinum, and pulmonary vasculature are within normal limits. Lungs are clear. No pleural fluid or pneumothorax is appreciated. Unremarkable chest x-XXXX."
+C3,2955,SUPPORTS,Supports
+C3,2972,SUPPORTS,Supports
+C3,2984,INVALID,"The X-ray shows the heart and lungs are within normal limits, and there is no evidence of active disease."
+C3,2985,INVALID,"The x-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax."
+C3,2989,INVALID,"The lungs are clear, the heart and pulmonary XXXX are normal, the pleural spaces are clear, and there is no pneumothorax."
+C3,3001,INVALID,The heart is normal in size and contour. There is no mediastinal widening. The lungs are clear bilaterally. No large pleural effusion or pneumothorax. The XXXX are intact. No acute cardiopulmonary abnormalities.
+C3,3004,SUPPORTS,Supports
+C3,3009,INVALID,The cardiomediastinal silhouette is normal. No focal airspace consolidation. No pneumothorax or pleural effusion. Normal chest.
+C3,3016,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C3,3018,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3019,INVALID,"The visual evidence supports the statement as the x-ray shows no focal consolidation, suspicious pulmonary opacity, pleural effusion, or pneumothorax."
+C3,3032,INVALID,"The X-ray shows a clear view of the lungs and the ribcage, indicating that there are no focal consolidation, pneumothorax, or pleural effusion. The cardiomediastinal silhouette is stable and unremarkable, and there are no acute osseous abnormalities identified. The acute cardiopulmonary ab"
+C3,3043,INVALID,"The X-ray shows a clear heart and lungs, with no evidence of tuberculosis and no change from the prior exam."
+C3,3044,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size and pulmonary vascularity are within normal limits."
+C3,3052,SUPPORTS,Supports
+C3,3079,SUPPORTS,Supports
+C3,3081,INVALID,"The X-ray supports the statement that cardiac and mediastinal contours are within normal limits, the lungs are clear, and bony structures are intact."
+C3,3082,SUPPORTS,Supports
+C3,3085,SUPPORTS,Supports
+C3,3091,SUPPORTS,Supports
+C3,3116,SUPPORTS,Supports
+C3,3118,INVALID,"The X-ray shows a clear heart and lungs without infiltrate, which supports the statement that the heart and mediastinum are stable and there is no acute cardiopulmonary disease."
+C3,3123,INVALID,"The x-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal and the lungs are clear."
+C3,3124,INVALID,"The X-ray shows no acute abnormality in the lungs and pleural spaces, and the heart size and pulmonary vascularity are within normal limits."
+C3,3137,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3140,SUPPORTS,Supports
+C3,3152,INVALID,"The x-ray shows a clear chest with no signs of lung opacification or costophrenic angles, supporting the statement that cardiac and mediastinal contours are within normal limits."
+C3,3166,SUPPORTS,Supports
+C3,3170,INVALID,"The X-ray shows a clear chest with no signs of active tuberculosis or acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3171,INVALID,"The x-ray shows a normal heart and clear lungs, which supports the statement that the heart is normal and the lungs are clear."
+C3,3179,INVALID,"The X-ray does not show any evidence of lung opacification, costophrenic angles, cardiac silhouette, or pleural space, which supports the normal limits of the cardiomediastinal contours."
+C3,3191,INVALID,"The lungs are clear, which supports the statement that there is no pleural effusion or pneumothorax."
+C3,3198,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3214,SUPPORTS,Supports
+C3,3219,SUPPORTS,Supports
+C3,3233,INVALID,"The X-ray shows a clear chest with no signs of infiltrate or effusion, supporting the statement that the trachea is midline and the cardiomediastinal silhouette is normal."
+C3,3241,SUPPORTS,Supports
+C3,3242,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Normal XXXX. Negative."
+C3,3249,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C3,3256,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality. Negative for acute abnormality."
+C3,3257,INVALID,"The X-ray shows a normal heart size and clear lungs, with a probable aberrant left subclavian artery. There is no evidence of tuberculosis."
+C3,3281,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is normal and there is resolution of effusion seen on the prior exam."
+C3,3299,SUPPORTS,Supports.
+C3,3316,SUPPORTS,Supports
+C3,3324,SUPPORTS,Supports
+C3,3334,INVALID,"The x-ray shows a clear lung with no pneumothorax or pleural effusion, and no acute cardiopulmonary abnormalities."
+C3,3336,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there is no pneumothorax or pleural effusion. The negative chest X-ray supports the statement that the lungs are clear."
+C3,3342,SUPPORTS,Supports
+C3,3347,INVALID,"The lungs are clear, and there is no focal airspace consolidation, pleural effusion or pneumothorax. The heart size is within normal limits, and the lungs are clear."
+C3,3354,INVALID,"The X-ray shows a normal heart, lungs, and mediastinum, with no signs of pleural effusion, pneumothorax, or focal air space opacity, and no acute cardiopulmonary disease."
+C3,3356,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3368,SUPPORTS,Supports
+C3,3369,INVALID,"The X-ray shows a normal heart size and clear lungs, with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The chest appears normal."
+C3,3372,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3394,SUPPORTS,Supports
+C3,3401,SUPPORTS,Supports
+C3,3404,SUPPORTS,Supports
+C3,3414,SUPPORTS,Supports
+C3,3415,SUPPORTS,Supports
+C3,3419,INVALID,The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.
+C3,3424,INVALID,"The x-ray shows a heart within normal limits, stable mediastinal and hilar contours, no focal alveolar consolidation, no definite pleural effusion seen, no typical findings of pulmonary edema, and no acute findings."
+C3,3455,SUPPORTS,Supports
+C3,3457,SUPPORTS,Supports
+C3,3468,SUPPORTS,Supports
+C3,3485,INVALID,"The X-ray shows clear lungs, no pneumothorax, no pleural effusion, a normal heart, and a midline trachea, which supports the conclusion that the chest exam is normal."
+C3,3490,SUPPORTS,Supports
+C3,3494,SUPPORTS,Supports.
+C3,3509,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3512,INVALID,"The X-ray shows a clear view of the heart and mediastinum, indicating that they are within normal limits and there are no acute abnormalities."
+C3,3532,INVALID,"The x-ray shows a normal heart size, normal pulmonary vasculature, normal mediastinal contours, and clear lung parenchyma, which supports the statement that the heart size is normal and there are no airspace disease or pleural effusions."
+C3,3545,SUPPORTS,Supports
+C3,3551,SUPPORTS,Supports
+C3,3559,INVALID,"The X-ray shows a clear heart and lungs without any infiltrate or pneumothorax, supporting the statement that the heart is normal in size and contour and the lungs are clear."
+C3,3565,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality. Negative."
+C3,3573,INVALID,"The X-ray does not support the statement as it shows no focal consolidation, visualized pneumothorax, large pleural effusions, or acute cardiopulmonary findings."
+C3,3575,SUPPORTS,Supports
+C3,3591,SUPPORTS,Supports.
+C3,3601,SUPPORTS,Supports
+C3,3607,INVALID,The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. No pneumothorax or pleural effusions. The XXXX are intact. No acute cardiopulmonary abnormalities.
+C3,3613,SUPPORTS,Supports
+C3,3620,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality. Negative."
+C3,3621,SUPPORTS,Supports
+C3,3626,INVALID,"The X-ray shows the heart, pulmonary XXXX and mediastinum are within normal limits, there is no pleural effusion or pneumothorax, and there is no focal air space opacity to suggest a pneumonia. No acute cardiopulmonary disease is evident."
+C3,3638,SUPPORTS,Supports
+C3,3654,SUPPORTS,Supports
+C3,3673,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C3,3684,SUPPORTS,Supports
+C3,3691,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3727,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3732,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or cardiac silhouette, and a normal pleural space, which supports the statement that the heart size is normal and there are no acute cardiopulmonary findings."
+C3,3746,INVALID,"The X-ray does not show any focal consolidation, visualized pneumothorax, large pleural effusions, or acute cardiopulmonary findings, which supports the statement that there are no such findings."
+C3,3748,INVALID,"The X-ray shows that the lungs are clear, there is no pneumothorax or pleural effusion, the heart and mediastinum are within normal limits, and bony structures are intact. This supports the statement that the lungs are clear."
+C3,3751,INVALID,The heart is top normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3752,SUPPORTS,Supports
+C3,3755,INVALID,"The x-ray shows a clear view of the lungs and heart, with no signs of abnormalities or issues."
+C3,3757,INVALID,"The X-ray shows a normal cardiac size and normal pulmonary vasculature, which supports the statement that the cardiac size is normal and there is no airspace disease."
+C3,3759,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The lung opacification, costophrenic angles, and cardiac silhouette are all normal."
+C3,3766,INVALID,"The X-ray shows a clear view of the lungs and bony structures, indicating that the cardiac and mediastinal contours are within normal limits and there is no lobar pneumonia."
+C3,3784,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3789,INVALID,"The X-ray shows a clear view of the lungs and heart, indicating that the heart size is normal and the lungs are clear."
+C3,3802,SUPPORTS,Supports
+C3,3807,SUPPORTS,Supports
+C3,3808,SUPPORTS,Supports
+C3,3846,INVALID,"The X-ray shows that the lungs are clear, there is no focal airspace consolidation, no pleural effusion or pneumothorax, the heart size is normal, and the mediastinal contour is also normal. This supports the conclusion that there is no evidence of active disease."
+C3,3853,INVALID,The heart is normal in size. The mediastinum is unremarkable. The lungs are clear. No acute disease.
+C3,3869,INVALID,The x-ray shows a normal heart size and no signs of pulmonary edema or other cardiopulmonary issues.
+C3,3875,SUPPORTS,Supports
+C3,3892,SUPPORTS,Supports
+C3,3917,INVALID,"The X-ray shows a clear chest with no signs of acute disease, supporting the statement that the heart is normal in size, the mediastinum is unremarkable, and the lungs are clear."
+C3,3919,INVALID,"The X-ray does not show any evidence of acute cardiopulmonary abnormality, and the mediastinal silhouette is unremarkable, which supports the normal heart size and absence of focal infiltrates or masses."
+C3,3927,INVALID,"The X-ray shows a heart within normal limits and no focal pulmonary consolidation, pleural effusion, or pneumothorax."
+C3,3933,INVALID,"The X-ray shows a clear chest with no infiltrate, which supports the conclusion that there is no acute cardiopulmonary disease."
+C3,3941,INVALID,"The X-ray shows a normal heart size and no focal airspace consolidations, pneumothorax or pleural effusion, or acute cardiopulmonary findings."
+C3,3945,SUPPORTS,Supports
+C3,3956,INVALID,"The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute displaced rib fracture. Negative for acute abnormality."
+C3,3975,SUPPORTS,Supports
+C3,3979,INVALID,"The X-ray shows a clear view of the ribcage and spine, with no signs of focal consolidation, suspicious pulmonary opacity, pneumothorax, or definite pleural effusion. The heart size and pulmonary vascularity are within normal limits, and the osseous structures appear intact."
+C3,3980,INVALID,"The X-ray shows a normal heart size and mediastinal contour, and the lungs are free of any focal infiltrates, nodules, or masses. There is no visible pneumothorax, pleural fluid, or free intraperitoneal air under the diaphragm. The cardiopulmonary process is not acute."
+C3,3987,INVALID,"The lungs appear clear, the heart and pulmonary XXXX are normal, pleural spaces are clear, and mediastinal contours are normal. The patient status post XXXX sternotomy and CABG is inconclusive."
+C3,3997,INVALID,"The X-ray shows a normal heart size and a normal mediastinal silhouette, which supports the statement that the heart size is normal and there are no abnormalities in the mediastinum."
+C4,18,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,27,INVALID,"The X-ray shows the lungs are clear, there is no focal airspace consolidation, no suspicious pulmonary mass or nodule is identified, there is no pleural effusion or pneumothorax, heart size and mediastinal contour are within normal limits, and no evidence of active disease."
+C4,33,SUPPORTS,Supports
+C4,45,SUPPORTS,Supports
+C4,59,SUPPORTS,Supports
+C4,64,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,97,INVALID,"The X-ray shows that the lungs are clear, there is no focal consolidation, pleural effusion, or pneumothorax, the heart and mediastinum are normal size and shape, and XXXX and soft tissues are unremarkable."
+C4,126,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, no pleural effusion is identified, and no acute abnormality is present."
+C4,143,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,168,SUPPORTS,Supports
+C4,182,INVALID,"The X-ray shows clear lungs, normal heart and pulmonary contours, and a healing rib fracture."
+C4,187,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,206,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No acute process."
+C4,210,INVALID,"The X-ray shows a clear chest with no signs of abnormalities, supporting the statement that the trachea is midline, the cardiomediastinal silhouette is normal, the lungs are clear, and there is no pneumothorax."
+C4,240,SUPPORTS,Supports
+C4,248,INVALID,"The X-ray shows the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal."
+C4,257,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax, which supports the statement that the heart size is within normal limits and there is no abnormality in the pulmonary vascularity."
+C4,277,SUPPORTS,Supports
+C4,278,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,288,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,292,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,315,SUPPORTS,Supports
+C4,329,INVALID,"The X-ray shows the lungs are normally inflated and clear, and the cardiomediastinal silhouette and vasculature are within normal limits for size and contour."
+C4,349,INVALID,"The X-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses, and no evidence of tuberculosis. The heart size is normal, and the costophrenic angles are clear."
+C4,371,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,376,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax."
+C4,395,SUPPORTS,Supports
+C4,420,SUPPORTS,Supports
+C4,439,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax."
+C4,442,SUPPORTS,Supports
+C4,462,SUPPORTS,Supports
+C4,469,SUPPORTS,Supports
+C4,472,INVALID,"The X-ray shows a clear view of the lungs, trachea, and cardiomediastinal silhouette, with no evidence of focal consolidations, pleural effusion, pneumothorax, or acute cardiopulmonary abnormalities."
+C4,516,INVALID,"The x-ray shows the lungs are clear, there is no focal airspace consolidation, no suspicious pulmonary mass or nodule is identified, there is no pleural effusion or pneumothorax, heart size and mediastinal contour are within normal limits, and no evidence of active disease."
+C4,521,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,530,SUPPORTS,Supports
+C4,540,INVALID,"The X-ray shows the lungs are clear and the cardiomediastinal silhouette is within normal limits, which supports the statement that the lungs are clear and the cardiomediastinal silhouette is within normal limits."
+C4,564,SUPPORTS,Supports
+C4,604,SUPPORTS,Supports
+C4,607,SUPPORTS,Supports
+C4,613,INVALID,The X-ray shows a clear chest with no signs of disease or abnormalities.
+C4,640,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, no pleural effusion is identified, and no evidence of thoracic injury is seen in the X-ray."
+C4,686,SUPPORTS,Supports
+C4,688,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,694,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No acute process."
+C4,714,SUPPORTS,Supports
+C4,738,SUPPORTS,Supports
+C4,745,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax, which supports the statement that the heart size is within normal limits."
+C4,805,SUPPORTS,Supports
+C4,834,SUPPORTS,Supports
+C4,859,INVALID,"The lungs appear clear, the heart and pulmonary XXXX are normal, pleural spaces are clear, and mediastinal contours are normal. The patient status post XXXX sternotomy and CABG is inconclusive."
+C4,867,INVALID,"The X-ray shows that the cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits, and there are no acute air space infiltrate, pleural effusion or pneumothorax, and no pulmonary nodules are identified."
+C4,890,INVALID,"The visual evidence supports the statement that the lungs appear to be clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are also normal, and the skeletal structures are normal. However, the study is limited by the patient's body habitus, and there is no evidence for acute pulmonary disease."
+C4,902,SUPPORTS,Supports
+C4,907,SUPPORTS,Supports
+C4,922,SUPPORTS,Supports
+C4,930,SUPPORTS,Supports
+C4,963,SUPPORTS,Supports
+C4,969,INVALID,"The X-ray shows the lungs are clear, there is no pleural effusion, the heart and mediastinum are normal, and the skeletal structures and soft tissues have a normal appearance. This supports the conclusion that there is no acute pulmonary disease."
+C4,997,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion, the heart and mediastinum are normal, and the skeletal structures and soft tissues have a normal appearance. This supports the conclusion that there is no acute pulmonary disease."
+C4,1020,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,1033,INVALID,The x-ray shows a normal heart size and no signs of pulmonary edema or other cardiopulmonary issues.
+C4,1037,SUPPORTS,Supports
+C4,1053,SUPPORTS,Supports
+C4,1073,INVALID,"The X-ray shows the lungs are clear, no pleural effusion or pneumothorax is identified, the heart and mediastinum are normal, and the skeletal structures and soft tissues are normal."
+C4,1088,INVALID,"The X-ray shows the lungs are clear, there is no focal consolidation, pleural effusion, or pneumothorax, the heart and mediastinum are normal size and shape, and XXXX and soft tissues are unremarkable."
+C4,1097,INVALID,"The X-ray shows a clear airspace disease and unremarkable pulmonary vascularity, which supports the statement that the cardiomediastinal silhouette is within normal limits of size and appearance."
+C4,1116,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, lungs without focal airspace disease, pleural effusion, or pneumothorax, and no acute bone abnormality or acute cardiopulmonary process."
+C4,1119,SUPPORTS,Supports
+C4,1128,INVALID,"The lungs appear clear, the heart and pulmonary XXXX are normal, pleural spaces are clear, and mediastinal contours are normal. The patient status post XXXX sternotomy and CABG is inconclusive."
+C4,1129,SUPPORTS,Supports
+C4,1145,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,1152,SUPPORTS,Supports
+C4,1164,SUPPORTS,Supports
+C4,1166,SUPPORTS,Supports
+C4,1184,INVALID,"The lungs are clear, and there is no focal consolidation, pleural effusion, or pneumothorax. The heart and mediastinum are normal size and shape. XXXX and soft tissues are unremarkable. No acute cardiopulmonary disease."
+C4,1235,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax, which supports the statement that the heart size is within normal limits."
+C4,1241,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, no pleural effusion is identified, and no acute abnormality is present."
+C4,1245,SUPPORTS,Supports
+C4,1248,SUPPORTS,Supports
+C4,1261,SUPPORTS,Supports
+C4,1276,SUPPORTS,Supports
+C4,1295,INVALID,"The X-ray shows the lungs are clear, there is no focal airspace consolidation, no suspicious pulmonary mass or nodule is identified, there is no pleural effusion or pneumothorax, heart size and mediastinal contour are within normal limits, and no evidence of active disease."
+C4,1333,SUPPORTS,Supports
+C4,1371,INVALID,"The X-ray supports the statement that the trachea is midline, the cardiomediastinal silhouette is normal, the lungs are clear, and there is no pneumothorax."
+C4,1392,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,1393,INVALID,"The X-ray shows a clear lung and no pleural effusion or pneumothorax, which supports the statement that the heart size is within normal limits and the pulmonary vascularity is also within normal limits."
+C4,1399,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,1419,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,1443,INVALID,"The lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,1479,INVALID,"The X-ray shows the lungs are clear and the cardiomediastinal silhouette is within normal limits, which supports the statement that the lungs are clear and there is no pneumothorax or pleural effusion."
+C4,1483,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,1513,INVALID,"The X-ray shows a clear cardiomediastinal silhouette, indicating that the lungs are clear and there is no pneumothorax or pleural effusion. The negative chest also supports the conclusion that the lungs are clear."
+C4,1527,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, lungs without focal airspace disease, pleural effusion, or pneumothorax, and no acute bone abnormality or acute cardiopulmonary process."
+C4,1546,INVALID,The cardiomediastinal silhouette is normal. The lungs are clear. There is no pneumothorax or pneumomediastinum. Visualized bony structures are normal. Normal chest x-XXXX.
+C4,1554,SUPPORTS,Supports
+C4,1564,INVALID,"The X-ray shows clear lungs with no focal airspace consolidation, no suspicious pulmonary mass or nodule, no pleural effusion or pneumothorax, and no evidence of active disease."
+C4,1567,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax."
+C4,1572,INVALID,"The X-ray shows the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal."
+C4,1610,SUPPORTS,Supports
+C4,1650,INVALID,"The X-ray shows a clear lungs and no pleural effusion or pneumothorax, which supports the statement that the heart size is at upper limits normal."
+C4,1685,INVALID,"The X-ray shows a clear chest with no signs of pleural effusion or pneumothorax, and the heart and mediastinum are normal. The skeletal structures are also normal, and there is no acute pulmonary disease."
+C4,1693,INVALID,"The X-ray shows a clear lung and no pleural effusion or pneumothorax, which supports the conclusion that the study is limited by the patient body habitus."
+C4,1711,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C4,1736,INVALID,"The X-ray shows a clear heart and lungs, with no pleural effusion or pneumothorax."
+C4,1753,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,1759,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,1771,SUPPORTS,Supports
+C4,1781,INVALID,"The lungs are clear, and there is no focal airspace consolidation, pleural effusion, or pneumothorax. The heart size is within normal limits, and the lungs are clear."
+C4,1804,SUPPORTS,Supports
+C4,1872,INVALID,"The X-ray shows a clear chest with no evidence of effusion, infiltrate, or pneumothorax, supporting the statement that the trachea is midline and the cardiomediastinal silhouette is normal."
+C4,1875,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. This supports the conclusion that there is no acute pulmonary disease."
+C4,1943,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,1949,INVALID,"The lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal."
+C4,1965,SUPPORTS,Supports
+C4,1991,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,2007,INVALID,"The X-ray shows a clear lungs and no pleural effusion or pneumothorax, which supports the statement that the heart size is at upper limits normal, the mediastinal silhouette is otherwise, and the pulmonary vascularity is within normal limits."
+C4,2021,INVALID,"The X-ray does not show any focal consolidation, visualized pneumothorax, pleural effusions, or acute cardiopulmonary findings, supporting the statement that there are no such findings."
+C4,2046,INVALID,"The X-ray shows a normal heart size and clear lungs, with no pleural line suggesting pneumothorax or costophrenic blunting, and no acute cardiopulmonary findings."
+C4,2048,INVALID,"The X-ray shows a clear lung, no pleural effusion or pneumothorax, and normal heart and mediastinum, but the skeletal structures are not visible."
+C4,2080,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,2109,INVALID,"The x-ray shows a normal heart size and a normal mediastinal silhouette, which supports the statement that the heart size is normal and there are no pneumothorax, pleural effusion or suspicious focal air space opacity."
+C4,2121,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax identified. The heart and mediastinum are normal, and the skeletal structures and soft tissues are normal. No active disease is present."
+C4,2144,INVALID,"The X-ray shows the lungs are clear, there is no focal consolidation, pleural effusion, or pneumothorax, the heart and mediastinum are normal size and shape, and XXXX and soft tissues are unremarkable."
+C4,2164,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C4,2166,INVALID,"The X-ray shows a clear cardiomediastinal silhouette, which supports the statement that the lungs are clear and within normal limits."
+C4,2172,INVALID,"The x-ray shows a clear chest with no signs of pneumonia, effusions, edema, pneumothorax, adenopathy, nodules or masses. The heart size is normal and the lungs are clear."
+C4,2224,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C4,2235,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, inflated lungs, and no focal airspace disease, pleural effusion, or pneumothorax. The cholecystectomy clips overlie the right upper quadrant, and there are no acute bone abnormalities or acute cardiopulmonary processes."
+C4,2246,SUPPORTS,Supports
+C4,2266,SUPPORTS,Supports
+C4,2271,SUPPORTS,Supports
+C4,2279,SUPPORTS,Supports
+C4,2287,INVALID,The cardiac silhouette and mediastinum size are within normal limits. There is no pulmonary edema. There is no focal consolidation. There are no XXXX of a large pleural effusion. There is no evidence of pneumothorax. There is no evidence of acute cardiopulmonary disease.
+C4,2320,INVALID,"The X-ray shows clear lungs and a normal cardiomediastinal silhouette, indicating that there is no pneumothorax or pleural effusion, and the chest is negative."
+C4,2331,INVALID,"The lungs are clear, and there is no focal airspace consolidation, pleural effusion, or pneumothorax. The heart size is within normal limits, and the lungs are clear."
+C4,2334,INVALID,"The x-ray shows a clear lung with no focal airspace consolidation, no pleural effusion or pneumothorax, and a normal cardiomediastinal silhouette. There are postoperative changes of cervical spine fusion, but no active disease."
+C4,2343,INVALID,"The X-ray shows clear lungs, normal heart and pulmonary contours, and a healing rib fracture."
+C4,2347,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,2363,SUPPORTS,Supports
+C4,2403,SUPPORTS,Supports
+C4,2408,SUPPORTS,Supports
+C4,2417,INVALID,"The X-ray supports the statement that the cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size, the lungs are clear of focal airspace disease, pneumothorax, or pleural effusion, and there are no acute bony findings or acute cardiopulmonary findings."
+C4,2424,INVALID,"The X-ray supports the statement as the cardiomediastinal silhouette is within normal limits for size and contour, the lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax, and there are no acute bone abnormalities or acute cardiopulmonary processes."
+C4,2427,SUPPORTS,Supports
+C4,2475,INVALID,"The lungs are clear and the cardiomediastinal silhouette is within normal limits, which supports the statement that the lungs are clear."
+C4,2513,INVALID,"The X-ray shows a clear lungs and no pleural effusion or pneumothorax, which supports the statement that the heart size is at upper limits normal."
+C4,2516,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, inflated lungs, and no focal airspace disease, pleural effusion, or pneumothorax."
+C4,2528,SUPPORTS,Supports
+C4,2547,SUPPORTS,Supports
+C4,2568,INVALID,"The X-ray shows a clear heart and lungs, with no pleural effusion or pneumothorax."
+C4,2589,INVALID,"The lungs are clear, and there is no focal airspace consolidation, pleural effusion, or pneumothorax. The heart size and mediastinal contour are normal, and there is no evidence of active disease."
+C4,2615,INVALID,"The X-ray shows a clear heart and lungs, and no pleural effusion or pneumothorax."
+C4,2653,SUPPORTS,Supports
+C4,2666,INVALID,"The X-ray shows the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. This supports the conclusion that there is no acute pulmonary disease."
+C4,2681,SUPPORTS,Supports
+C4,2685,INVALID,"The lungs are clear, and there is no focal air space consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is also clear, indicating normal functioning of the heart and blood vessels."
+C4,2687,SUPPORTS,Supports
+C4,2728,SUPPORTS,Supports
+C4,2774,SUPPORTS,Supports
+C4,2776,SUPPORTS,Supports
+C4,2789,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,2795,INVALID,"The X-ray shows a normal heart size and pulmonary vascular engorgement within the limits of normal. The mediastinal contour is unremarkable, and there are no focal consolidation, pleural effusion, or pneumothorax identified. No convincing acute bony findings are present, and no acute cardiopulmonary"
+C4,2812,INVALID,"The X-ray shows the lungs are clear, there is no focal consolidation, pleural effusion, or pneumothorax, the heart and mediastinum are normal size and shape, and XXXX and soft tissues are unremarkable."
+C4,2835,SUPPORTS,Supports
+C4,2848,SUPPORTS,Supports
+C4,2874,INVALID,"The lungs are clear, and there is no pleural effusion or pneumothorax. The heart and mediastinum are normal, and the skeletal structures are normal. No acute pulmonary disease."
+C4,2887,INVALID,The cardiomediastinal silhouette is within normal limits. Lungs are clear without areas of focal consolidation. No pneumothorax or large pleural effusion. No acute cardiopulmonary process.
+C4,2892,INVALID,"The X-ray shows clear lungs, normal heart and pulmonary contours, and a healing rib fracture."
+C4,2904,SUPPORTS,Supports
+C4,2911,SUPPORTS,Supports
+C4,2930,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,2939,INVALID,"The X-ray shows the lungs are clear, the heart and pulmonary contours appear normal, the pleural spaces are clear, and the rib fracture is healing. This supports the conclusion that there is no acute cardiopulmonary disease."
+C4,2972,INVALID,"The X-ray shows a clear heart and lungs, and no pleural line to suggest pneumothorax or costophrenic blunting, which supports the statement that the heart size is normal and there are no acute cardiopulmonary findings."
+C4,2989,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,3001,SUPPORTS,Supports
+C4,3004,SUPPORTS,Supports
+C4,3009,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or pleural space. The cardiac silhouette is also normal, and the skeletal structures are clear. The limited study does not provide evidence for acute pulmonary disease."
+C4,3016,INVALID,"The X-ray shows a clear lung, normal heart and pulmonary contours, and a healing rib fracture."
+C4,3018,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,3044,INVALID,"The x-ray shows that the lungs are clear, there is no focal airspace consolidation, no pleural effusion or pneumothorax, the heart size and mediastinal contour are normal, and there is no evidence of active disease."
+C4,3052,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,3079,INVALID,"The X-ray shows a clear lungs and no pleural effusion or pneumothorax, which supports the statement that the heart size is at upper limits normal."
+C4,3085,INVALID,"The X-ray shows a clear lung and no pleural effusion or pneumothorax, which supports the conclusion that the study is limited by the patient's body habitus."
+C4,3091,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,3123,SUPPORTS,Supports
+C4,3137,INVALID,"The X-ray shows a clear lung and no pleural effusion or pneumothorax, which supports the statement that the study is limited by the patient's body habitus."
+C4,3166,INVALID,"The X-ray shows the lungs are clear and the cardiomediastinal silhouette is within normal limits, indicating that there is no pneumothorax or pleural effusion, and the chest is negative."
+C4,3179,SUPPORTS,Supports
+C4,3191,INVALID,"The X-ray shows a normal cardiomediastinal silhouette and vasculature, clear lungs, and normal osseous structures, which supports the statement that the cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age"
+C4,3233,INVALID,"The lungs are clear, and there is no focal airspace consolidation, which supports the statement that the lungs are clear."
+C4,3241,SUPPORTS,Supports
+C4,3257,SUPPORTS,Supports
+C4,3281,SUPPORTS,Supports
+C4,3316,INVALID,The lungs are clear and the cardiomediastinal silhouette is within normal limits.
+C4,3356,SUPPORTS,Supports
+C4,3394,INVALID,"The X-ray shows a normal cardiomediastinal silhouette, which supports the statement that the trachea is midline and there are no acute infiltrates, effusions, or evidence of pneumothorax."
+C4,3401,SUPPORTS,Supports
+C4,3414,SUPPORTS,Supports
+C4,3424,INVALID,"The lungs are clear, and there is no focal airspace consolidation, pleural effusion or pneumothorax. The heart size is within normal limits, and the lungs are clear."
+C4,3468,INVALID,"The lungs appear clear, the heart and pulmonary XXXX are normal, the mediastinal contours are normal, and the pleural spaces are clear."
+C4,3494,INVALID,"The lungs appear clear, and there are no suspicious appearing pulmonary nodules or masses. The heart pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal. No acute cardiopulmonary disease."
+C4,3512,SUPPORTS,Supports
+C4,3532,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there is no pneumothorax or pleural effusion. The chest is negative."
+C4,3551,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, and there is no pneumothorax or pleural effusion. The chest is negative."
+C4,3575,INVALID,"The X-ray shows a clear lung, normal heart and pulmonary contours, and a healing rib fracture."
+C4,3591,SUPPORTS,Supports
+C4,3607,INVALID,"The lungs are clear, and there is no focal consolidation, pleural effusion, or pneumothorax. The heart and mediastinum are normal size and shape. XXXX and soft tissues are unremarkable. No acute cardiopulmonary disease."
+C4,3620,SUPPORTS,Supports
+C4,3654,SUPPORTS,Supports
+C4,3684,SUPPORTS,Supports
+C4,3727,SUPPORTS,Supports
+C4,3732,SUPPORTS,Supports
+C4,3746,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C4,3751,INVALID,"The lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal."
+C4,3752,INVALID,"The x-ray shows the lungs are clear, with no focal airspace consolidation, no pleural effusion or pneumothorax, and a normal cardiomediastinal silhouette. There are postoperative changes of cervical spine fusion, but no active disease."
+C4,3755,INVALID,"The cardiomediastinal silhouette is normal in size and contour. The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact. No acute cardiopulmonary process."
+C4,3757,INVALID,"The cardiac silhouette, upper mediastinum and pulmonary vasculature are within normal limits. There is no acute air space infiltrate, pleural effusion or pneumothorax. No pulmonary nodules are identified. No acute process. No definite pulmonary nodules are seen. If clinically indicated, further evaluation with CT"
+C4,3759,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,3766,SUPPORTS,Supports
+C4,3784,INVALID,"The X-ray shows a clear lung, no pleural effusion or pneumothorax, and normal heart and mediastinum, but the skeletal structures are not visible."
+C4,3789,INVALID,The cardiomediastinal silhouette is normal in size in appearance and stable from XXXX. The lungs are clear. Soft tissues and bony structures are unremarkable. No pneumothorax or pleural effusion. Unremarkable examination of the chest.
+C4,3869,SUPPORTS,Supports
+C4,3875,SUPPORTS,Supports
+C4,3892,SUPPORTS,Supports
+C4,3917,INVALID,"The X-ray shows a clear airspace disease and unremarkable pulmonary vascularity, which supports the statement that the cardiomediastinal silhouette is within normal limits of size and appearance."
+C4,3919,SUPPORTS,Supports
+C4,3933,SUPPORTS,Supports
+C4,3941,INVALID,The visual evidence supports the statement as the lungs appear clear and there is no pleural effusion or pneumothorax.
+C4,3956,INVALID,"The lungs are clear, the cardiomediastinal silhouette is within normal limits, no pleural effusion is identified, and no evidence of thoracic injury is seen."
+C4,3975,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion or pneumothorax, the heart and mediastinum are normal, and the skeletal structures are normal. This supports the conclusion that there is no acute pulmonary disease."
+C4,3979,INVALID,"The X-ray shows a clear chest with no fractures or dislocations, and the heart size is normal."
+C4,3987,INVALID,"The X-ray shows that the lungs are clear, there is no pleural effusion, the heart and mediastinum are normal, and the skeletal structures and soft tissues have a normal appearance. This supports the conclusion that there is no acute pulmonary disease."
+C4,3997,INVALID,"The X-ray shows a clear chest with no signs of lung opacification, costophrenic angles, or pleural space. The cardiac silhouette is also normal, and there is no evidence of acute pulmonary disease."

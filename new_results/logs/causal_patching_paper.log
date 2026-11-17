@@ -1,0 +1,141 @@
+matched(C0)=738 mismatched(C2/C3/C4)=972
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794892470.056870    2973 sentencepiece_processor.cc:130] Piece at index 354 is a null character (\0) and byte_fallback is enabled. Treating it as an UNUSED piece.
+FlashAttention2 is not installed.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+Warning: Flash attention is not available, using eager attention instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:20<01:00, 20.19s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:37<00:37, 18.54s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:50<00:15, 15.91s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:52<00:00, 10.54s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:52<00:00, 13.17s/it]
+InternVL2-8B loaded on cuda:0. 32 layers.
+probe matched 0/150
+probe matched 50/150
+probe matched 100/150
+probe mismatched 0/150
+probe mismatched 50/150
+probe mismatched 100/150
+Probe trained: n=298 AUC=1.0000
+
+=== matched_to_mismatched: 50 pairs ===
+  matched_to_mismatched 0/50
+  matched_to_mismatched 10/50
+  matched_to_mismatched 20/50
+  matched_to_mismatched 30/50
+  matched_to_mismatched 40/50
+  L20: baseline P(mismatch)=0.993 -> patched=0.983  delta=-0.010 (n=50)
+  L25: baseline P(mismatch)=0.993 -> patched=0.990  delta=-0.003 (n=50)
+  L28: baseline P(mismatch)=0.993 -> patched=0.992  delta=-0.002 (n=50)
+  L30: baseline P(mismatch)=0.993 -> patched=0.993  delta=+0.000 (n=50)
+
+=== mismatched_to_matched: 50 pairs ===
+  mismatched_to_matched 0/50
+  mismatched_to_matched 10/50
+  mismatched_to_matched 20/50
+  mismatched_to_matched 30/50
+  mismatched_to_matched 40/50
+  L20: baseline P(mismatch)=0.007 -> patched=0.022  delta=+0.015 (n=50)
+  L25: baseline P(mismatch)=0.007 -> patched=0.012  delta=+0.005 (n=50)
+  L28: baseline P(mismatch)=0.007 -> patched=0.009  delta=+0.002 (n=50)
+  L30: baseline P(mismatch)=0.007 -> patched=0.007  delta=+0.000 (n=50)
+
+=== noop control: 50 pairs ===
+  noop 0/50
+  noop 10/50
+  noop 20/50
+  noop 30/50
+  noop 40/50
+  L20: baseline=0.993 -> patched=0.993  delta=+0.0000 (n=50)
+  L25: baseline=0.993 -> patched=0.993  delta=+0.0000 (n=50)
+  L28: baseline=0.993 -> patched=0.993  delta=+0.0000 (n=50)
+  L30: baseline=0.993 -> patched=0.993  delta=+0.0000 (n=50)
+
+{
+  "model": "InternVL2-8B",
+  "probe_auc": 1.0,
+  "layers": [
+    20,
+    25,
+    28,
+    30
+  ],
+  "readout_layer": 30,
+  "by_direction": {
+    "matched_to_mismatched": {
+      "20": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9830443680286407,
+        "delta": -0.010240777730941772,
+        "n": 50
+      },
+      "25": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9899699342250824,
+        "delta": -0.003315211534500122,
+        "n": 50
+      },
+      "28": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9917639648914337,
+        "delta": -0.0015211808681488037,
+        "n": 50
+      },
+      "30": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9932851457595825,
+        "delta": 0.0,
+        "n": 50
+      }
+    },
+    "mismatched_to_matched": {
+      "20": {
+        "baseline_mean": 0.0067143381149026736,
+        "patched_mean": 0.021841544902577715,
+        "delta": 0.015127206787675042,
+        "n": 50
+      },
+      "25": {
+        "baseline_mean": 0.0067143381149026736,
+        "patched_mean": 0.012156472404846639,
+        "delta": 0.005442134289943965,
+        "n": 50
+      },
+      "28": {
+        "baseline_mean": 0.0067143381149026736,
+        "patched_mean": 0.008548360252799618,
+        "delta": 0.0018340221378969446,
+        "n": 50
+      },
+      "30": {
+        "baseline_mean": 0.0067143381149026736,
+        "patched_mean": 0.0067143381149026736,
+        "delta": 0.0,
+        "n": 50
+      }
+    },
+    "noop": {
+      "20": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9932851457595825,
+        "delta": 0.0,
+        "n": 50
+      },
+      "25": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9932851457595825,
+        "delta": 0.0,
+        "n": 50
+      },
+      "28": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9932851457595825,
+        "delta": 0.0,
+        "n": 50
+      },
+      "30": {
+        "baseline_mean": 0.9932851457595825,
+        "patched_mean": 0.9932851457595825,
+        "delta": 0.0,
+        "n": 50
+      }
+    }
+  }
+}
+Done.

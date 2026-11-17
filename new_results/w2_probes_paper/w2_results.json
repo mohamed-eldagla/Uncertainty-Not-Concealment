@@ -1,0 +1,33 @@
+{
+  "model": "InternVL2-8B",
+  "reference_cls_auc": 0.798,
+  "probes": {
+    "clip_cosine": {
+      "available": true,
+      "matched_mean": 0.4026231607794762,
+      "mismatched_mean": 0.41952567830681803,
+      "auc": 0.5954,
+      "mannwhitney_p": 0.0009661689296202047,
+      "n_matched": 200,
+      "n_mismatched": 200
+    },
+    "output_entropy": {
+      "available": true,
+      "matched_mean": 2.3791180782847934,
+      "mismatched_mean": 2.343068959712982,
+      "auc": 0.46606060606060606,
+      "mannwhitney_p": 0.24166667082035043,
+      "n_matched": 198,
+      "n_mismatched": 200
+    },
+    "attention": {
+      "available": true,
+      "matched_mean": 0.04593768022536694,
+      "mismatched_mean": 0.04362801054414838,
+      "auc": 0.43803030303030305,
+      "mannwhitney_p": 0.03250277515787484,
+      "n_matched": 198,
+      "n_mismatched": 200
+    }
+  }
+}

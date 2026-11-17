@@ -1,0 +1,43 @@
+{
+  "model": "InternVL2-8B",
+  "parser": "first label / first line, brackets optional",
+  "mismatched_counts": {
+    "SUPPORTS": 296,
+    "CONTRADICTS": 3,
+    "OTHER": 1
+  },
+  "mismatched_contradicts_rate": 1.0,
+  "matched_counts": {
+    "SUPPORTS": 146,
+    "CONTRADICTS": 2,
+    "OTHER": 2
+  },
+  "matched_contradicts_rate": 1.3333333333333335,
+  "per_condition": {
+    "C2": {
+      "counts": {
+        "SUPPORTS": 96,
+        "CONTRADICTS": 3,
+        "OTHER": 1
+      },
+      "n": 100,
+      "contradicts_rate": 3.0
+    },
+    "C3": {
+      "counts": {
+        "SUPPORTS": 100
+      },
+      "n": 100,
+      "contradicts_rate": 0.0
+    },
+    "C4": {
+      "counts": {
+        "SUPPORTS": 100
+      },
+      "n": 100,
+      "contradicts_rate": 0.0
+    }
+  },
+  "n_mismatched": 300,
+  "n_matched": 150
+}

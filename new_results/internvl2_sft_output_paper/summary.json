@@ -1,0 +1,54 @@
+{
+  "model": "InternVL2-8B",
+  "cls_auc": 0.638106959835064,
+  "cls_auc_std": 0.031002248982729474,
+  "cls_folds": [
+    0.6538885824600111,
+    0.6144971502114359,
+    0.6904761904761906,
+    0.6273413474979033,
+    0.6043315285297792
+  ],
+  "verdicts": {
+    "SUPPORTS": 913,
+    "INCONCLUSIVE": 53,
+    "INVALID": 4,
+    "CONTRADICTS": 2
+  },
+  "per_condition": {
+    "C2": {
+      "n": 257,
+      "SUPPORTS": 213,
+      "CONTRADICTS": 2,
+      "INCONCLUSIVE": 39,
+      "INVALID": 3,
+      "SUPPORTS_pct": 82.87937743190662,
+      "CONTRADICTS_pct": 0.7782101167315175,
+      "INCONCLUSIVE_pct": 15.17509727626459,
+      "INVALID_pct": 1.1673151750972763
+    },
+    "C3": {
+      "n": 481,
+      "SUPPORTS": 468,
+      "CONTRADICTS": 0,
+      "INCONCLUSIVE": 13,
+      "INVALID": 0,
+      "SUPPORTS_pct": 97.2972972972973,
+      "CONTRADICTS_pct": 0.0,
+      "INCONCLUSIVE_pct": 2.7027027027027026,
+      "INVALID_pct": 0.0
+    },
+    "C4": {
+      "n": 234,
+      "SUPPORTS": 232,
+      "CONTRADICTS": 0,
+      "INCONCLUSIVE": 1,
+      "INVALID": 1,
+      "SUPPORTS_pct": 99.14529914529915,
+      "CONTRADICTS_pct": 0.0,
+      "INCONCLUSIVE_pct": 0.4273504273504274,
+      "INVALID_pct": 0.4273504273504274
+    }
+  },
+  "verdict_parser": "first VISUAL EVIDENCE label, brackets optional"
+}

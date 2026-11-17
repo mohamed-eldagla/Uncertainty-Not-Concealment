@@ -1,0 +1,30 @@
+sampled X=(800, 4096) n_matched=400 n_mismatched=400
+observed 5-fold CV AUC = 0.6213 +/- 0.0237
+OOB bootstrap 95% CI = [0.5597, 0.6632] (n=500)
+permutation: observed held-out AUC=0.6224, null mean=0.4995, p=0.00200
+{
+  "model": "InternVL2-8B",
+  "feature_source": "/kaggle/working/internvl2_sft_output_paper/cls_features.npz",
+  "n_matched": 400,
+  "n_mismatched": 400,
+  "observed_cv_auc": 0.6212500000000001,
+  "observed_cv_std": 0.023733135459732244,
+  "cv_folds": [
+    0.62,
+    0.61234375,
+    0.61421875,
+    0.6654687499999999,
+    0.5942187499999999
+  ],
+  "bootstrap_oob_auc_mean": 0.6077357214295626,
+  "bootstrap_oob_ci_95": [
+    0.5597290398570204,
+    0.6632135263006642
+  ],
+  "n_bootstrap": 500,
+  "permutation_heldout_auc": 0.6223611111111111,
+  "permutation_null_mean": 0.4995310569832647,
+  "permutation_pvalue": 0.002,
+  "n_permutations": 500,
+  "protocol": "PCA(64)+LR; OOB bootstrap; 70/30 held-out permutation"
+}

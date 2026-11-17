@@ -1,0 +1,89 @@
+Device: cuda
+Checkpoint dir: /kaggle/working/checkpoints_internvl2_sft_paper
+PREV=/kaggle/working/aea-xai-pipeline
+IU=/kaggle/input/datasets/raddar/chest-xrays-indiana-university
+img_dir=/kaggle/input/datasets/raddar/chest-xrays-indiana-university/images/images_normalized
+Mapped 3689 frontal
+C0=738 C2=257 C3=481 C4=234
+Loading InternVL2-8B (SFT) ...
+Downloading OpenGVLab/InternVL2-8B to /root/models/internvl2_sft_model ...
+Fetching 27 files:   0%|          | 0/27 [00:00<?, ?it/s]Fetching 27 files:  30%|██▉       | 8/27 [00:00<00:01, 11.46it/s]Fetching 27 files:  59%|█████▉    | 16/27 [00:01<00:00, 12.63it/s]Fetching 27 files:  81%|████████▏ | 22/27 [00:20<00:04,  1.10it/s]Fetching 27 files:  85%|████████▌ | 23/27 [00:25<00:04,  1.12s/it]Fetching 27 files:  89%|████████▉ | 24/27 [00:52<00:06,  2.19s/it]Fetching 27 files:  93%|█████████▎| 25/27 [02:12<00:10,  5.28s/it]Fetching 27 files: 100%|██████████| 27/27 [02:23<00:00,  5.33s/it]Fetching 27 files: 100%|██████████| 27/27 [02:23<00:00,  5.33s/it]
+Download done.
+Patched modeling_intern_vit.py dpr .item() bug.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1794860463.247868     896 sentencepiece_processor.cc:130] Piece at index 354 is a null character (\0) and byte_fallback is enabled. Treating it as an UNUSED piece.
+FlashAttention2 is not installed.
+The `load_in_4bit` and `load_in_8bit` arguments are deprecated and will be removed in the future versions. Please, pass a `BitsAndBytesConfig` object in `quantization_config` argument instead.
+`low_cpu_mem_usage` was None, now set to True since model is quantized.
+Warning: Flash attention is not available, using eager attention instead.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:36<01:48, 36.25s/it]Loading checkpoint shards:  50%|█████     | 2/4 [01:11<01:11, 35.76s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [01:47<00:35, 35.58s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:57<00:00, 25.50s/it]Loading checkpoint shards: 100%|██████████| 4/4 [01:57<00:00, 29.27s/it]
+InternVL2-8B loaded. 32 layers.
+InternVL2 helpers ready.
+C0 0/738
+C0 50/738
+C0 100/738
+C0 150/738
+C0 200/738
+C0 250/738
+C0 300/738
+C0 350/738
+C0 400/738
+C0 450/738
+C0 500/738
+C0 550/738
+C0 600/738
+C0 650/738
+C0 700/738
+C2 0/257
+C2 50/257
+C2 100/257
+C2 150/257
+C2 200/257
+C2 250/257
+  Checkpoint after C2
+C3 0/481
+C3 50/481
+C3 100/481
+C3 150/481
+C3 200/481
+C3 250/481
+C3 300/481
+C3 350/481
+C3 400/481
+C3 450/481
+  Checkpoint after C3
+C4 0/234
+C4 50/234
+C4 100/234
+C4 150/234
+C4 200/234
+  Checkpoint after C4
+Checkpoint saved: 1472 CLS rows
+Verdicts:
+verdict
+INVALID         772
+SUPPORTS        179
+INCONCLUSIVE     19
+CONTRADICTS       2
+CLS: (1472, 4096) groups: 738
+InternVL2 CLS AUC=0.6381 +/- 0.0310 folds=[0.6538885824600111, 0.6144971502114359, 0.6904761904761906, 0.6273413474979033, 0.6043315285297792]
+Figure saved
+{
+  "model": "InternVL2-8B",
+  "cls_auc": 0.638106959835064,
+  "cls_auc_std": 0.031002248982729474,
+  "cls_folds": [
+    0.6538885824600111,
+    0.6144971502114359,
+    0.6904761904761906,
+    0.6273413474979033,
+    0.6043315285297792
+  ],
+  "verdicts": {
+    "INVALID": 772,
+    "SUPPORTS": 179,
+    "INCONCLUSIVE": 19,
+    "CONTRADICTS": 2
+  }
+}
+Done.
