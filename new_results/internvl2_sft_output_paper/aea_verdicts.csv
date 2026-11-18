@@ -78,7 +78,7 @@ C2,306,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a normal cardiomediastinal silhouette, no focal consolidation, no evidence of a large pleural effusion, no pneumothorax, and no acute bony abnormalities. The presence of probable old lateral right rib fractures does not contradict the statement.
 VISUAL EVIDENCE: SUPPORTS
 ",INVALID
-C2,319,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,319,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows obscuration of the left hemidiaphragm, which suggests left retrocardiac airspace disease. This is consistent with the statement provided.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The X-ray does not show any evidence of effusion, which contradicts",SUPPORTS
@@ -86,7 +86,7 @@ C2,320,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows clear lung parenchyma, normal pulmonary vasculature, and unremarkable heart and mediastinal contours, which supports the statement that there is no acute radiographic cardiopulmonary process.
 VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows clear lung paren",INVALID
-C2,338,CONTRADICTS,"VISUAL EVIDENCE: [CONTRADICTS]
+C2,338,INVALID,"VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The presence of calcified granulomas in the right midlung and right hilar region suggests the possibility of tuberculosis, which contradicts the statement ""No evidence of tuberculosis.""
 VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The lungs appear clear, and the heart",CONTRADICTS
@@ -113,7 +113,7 @@ C2,385,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows improved basilar aeration, as evidenced by the increased radiolucency in the lower lung zones. The persistent small bilateral pleural effusions are visible, with more pronounced effusion on the right and a smaller one on the left, which is consistent with the description. The left basilar atelect",SUPPORTS
 C2,393,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The cardiac silhouette appears within normal limits in size for an anteroposterior (AP) technique, and the lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. The pulmonary vasculature is normal in caliber, and there are no acute",INVALID
-C2,430,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,430,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows an approximately 4 cm opacity with one well-defined margin and the other ill-defined in the lateral lower left lung, which is consistent with the description provided.
 
 VISUAL EVIDENCE: [INCONCLUSIVE]
@@ -171,7 +171,7 @@ C2,663,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a clear lung field, no focal consolidations, and no pneumothorax or pleural effusions. The cardiac silhouette appears within normal limits, and the osseous structures are intact. The emphysematous changes of the lungs are also visible.
 VISUAL EVIDENCE: SUPPORTS
 ",INVALID
-C2,720,INCONCLUSIVE,"VISUAL EVIDENCE: INCONCLUSIVE
+C2,720,INVALID,"VISUAL EVIDENCE: INCONCLUSIVE
 RATIONALE: The X-ray shows a 1.5 cm nodule in the left midlung zone, but it is not clear whether this nodule contains calcium or not. Therefore, it is inconclusive whether the nodule is chronic or stable.
 
 VISUAL EVIDENCE: SUPPORTS
@@ -222,7 +222,7 @@ VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows marked cardiome",INVALID
 C2,947,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows an enlarged cardiac silhouette, which is indicative of cardiomegaly. There is no evidence of focal consolidation, effusion, or pneumothorax, and the thoracic aorta appears mildly unfolded. The bony thorax and soft tissues are grossly unremarkable",INVALID
-C2,988,CONTRADICTS,"VISUAL EVIDENCE: [CONTRADICTS]
+C2,988,INVALID,"VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The costophrenic angles appear blunted, which is inconsistent with the statement that they are normal.
 VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The left lower lobe shows patchy infiltrates, which supports the statement that there is patchy infiltrate in the left lower l",CONTRADICTS
@@ -232,7 +232,7 @@ C2,1046,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a normal cardiac silhouette and clear lung fields without focal airspace disease, pleural effusion, or pneumothorax. The noted calcified lymph nodes and granuloma are consistent with past but not active disease.
 VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a normal",INVALID
-C2,1093,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,1093,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows continued density in the right lateral and left base of the chest, indicating that the patchy opacities have not resolved.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The X-ray shows minimal tenting of the lateral right hemidiaphragm, suggesting that",SUPPORTS
@@ -248,7 +248,7 @@ C2,1138,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The heart appears normal in size, the mediastinum is unremarkable, the lungs are slightly hypoinflated but clear, and there is no pleural effusion or acute disease.
 VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The heart appears normal in size, the mediastinum is un",INVALID
-C2,1141,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,1141,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The flattening of the bilateral hemidiaphragms is evident in the X-ray, as the diaphragm appears more horizontal than usual, which supports the diagnosis.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The flattening of the bilateral hemidiaphragms is not",SUPPORTS
@@ -315,7 +315,7 @@ C2,1522,INCONCLUSIVE,"VISUAL EVIDENCE: INCONCLUSIVE
 RATIONALE: The X-ray shows a fracture deformity proximal right humerus, which supports the diagnosis. However, the hyperinflation of the lungs and the opacity in the left base are inconclusive as they could be due to other conditions such as atelectasis or scarring, rather than directly indicating the presence of a fracture de",INVALID
 C2,1533,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a clear right lung and normal pulmonary vascularity, with the heart size within normal limits and unremarkable mediastinal contours. The left lung base shows some opacities that may represent atelectasis or scarring, but no focal consolidation, pleural effusion, or pneumothorax is observed",INVALID
-C2,1537,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
+C2,1537,INVALID,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The cardiac silhouette appears enlarged, which supports the presence of cardiomegaly.
 VISUAL EVIDENCE: INCONCLUSIVE
 RATIONALE: The pulmonary vascularity appears within normal limits, and there is no evidence of active disease, which makes it inconclusive for the presence of cardiomegaly.",INVALID
@@ -335,7 +335,7 @@ C2,1594,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a hyperlucent right apex with hyperinflation consistent with emphysematous changes, and the cardiac silhouette and mediastinal contours are within normal limits. There is no opacity, pneumothorax, or large pleural effusion.
 VISUAL EVIDENCE: SUPPORTS
 ",INVALID
-C2,1598,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,1598,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows lung opacification in the right lower lobe, which supports the diagnosis of anterior segment right lower lobe pneumonia.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The X-ray shows no costophrenic angles blunting, which contradicts the presence of",SUPPORTS
@@ -537,7 +537,7 @@ C2,2797,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The cardiac and mediastinal contours appear within normal limits, the lungs are clear, and the bony structures are intact, which supports the statement.
 VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The cardiac and mediastinal contours appear within normal limits, the lungs are clear, and the b",SUPPORTS
-C2,2833,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,2833,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows a stable blunting of the left costophrenic angle, which may represent persistent left pleural effusion versus pleural scarring, supporting the statement.
 VISUAL EVIDENCE: [INCONCLUSIVE]
 RATIONALE: The X-ray shows a stable blunting of the left costophren",SUPPORTS
@@ -650,7 +650,7 @@ C2,3373,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The X-ray shows a normal cardiac silhouette, no lung opacification, clear costophrenic angles, and no pleural effusion. The eventration of the right hemidiaphragm and mild degenerative changes of the thoracic spine without fracture are also noted, but do not contradict the given findings.",INVALID
 C2,3384,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The presence of prominent perihilar opacities and vague small nodular opacities in the right upper lung zone, as described in the retrieved record, aligns with the findings of bronchiectasis and possible focal areas of peribronchial pneumonia. normal limits. Some prominent perihilar op",INVALID
-C2,3390,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,3390,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows a calcified granuloma in the right lower lobe, which supports the presence of such a lesion.
 VISUAL EVIDENCE: [INCONCLUSIVE]
 RATIONALE: The X-ray does not provide clear evidence of calcified granuloma in the right lower lobe, making it",SUPPORTS
@@ -693,7 +693,7 @@ RATIONALE: The X",SUPPORTS
 C2,3664,SUPPORTS,"VISUAL EVIDENCE: SUPPORTS
 RATIONALE: The heart appears normal in size and the mediastinum is unremarkable, with no signs of acute disease. The lungs are clear, and there is no pneumothorax. The left subclavian central catheter tip is in the distal SVC, which is consistent with the given information.
 VISUAL E",INVALID
-C2,3665,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,3665,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows a small focal nodular infiltrate in the lingula, which supports the diagnosis of infection or pneumonia in that area.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The X-ray shows no evidence of lung opacification in the lingula, which contradicts",SUPPORTS
@@ -760,7 +760,7 @@ C2,3954,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The mediastinal contours appear normal, and there is no evidence of pneumothorax or large pleural effusion. The lung opacity in the left lung base and scarring are unchanged, indicating no acute cardiopulmonary abnormality.
 VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE:",SUPPORTS
-C2,3958,SUPPORTS,"VISUAL EVIDENCE: [SUPPORTS]
+C2,3958,INVALID,"VISUAL EVIDENCE: [SUPPORTS]
 RATIONALE: The X-ray shows a large right pleural effusion with associated atelectatic collapse of the right middle lobe and partial collapse of the right lower lobe, indicating that the right lung is not grossly clear.
 VISUAL EVIDENCE: [CONTRADICTS]
 RATIONALE: The X-ray shows",SUPPORTS

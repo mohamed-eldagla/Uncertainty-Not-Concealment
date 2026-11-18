@@ -10,22 +10,21 @@
     0.6043315285297792
   ],
   "verdicts": {
-    "SUPPORTS": 913,
-    "INCONCLUSIVE": 53,
-    "INVALID": 4,
-    "CONTRADICTS": 2
+    "SUPPORTS": 903,
+    "INVALID": 17,
+    "INCONCLUSIVE": 52
   },
   "per_condition": {
     "C2": {
       "n": 257,
-      "SUPPORTS": 213,
-      "CONTRADICTS": 2,
-      "INCONCLUSIVE": 39,
-      "INVALID": 3,
-      "SUPPORTS_pct": 82.87937743190662,
-      "CONTRADICTS_pct": 0.7782101167315175,
-      "INCONCLUSIVE_pct": 15.17509727626459,
-      "INVALID_pct": 1.1673151750972763
+      "SUPPORTS": 203,
+      "CONTRADICTS": 0,
+      "INCONCLUSIVE": 38,
+      "INVALID": 16,
+      "SUPPORTS_pct": 78.98832684824903,
+      "CONTRADICTS_pct": 0.0,
+      "INCONCLUSIVE_pct": 14.785992217898833,
+      "INVALID_pct": 6.22568093385214
     },
     "C3": {
       "n": 481,
@@ -50,5 +49,5 @@
       "INVALID_pct": 0.4273504273504274
     }
   },
-  "verdict_parser": "first VISUAL EVIDENCE label, brackets optional"
+  "verdict_parser": "first VISUAL EVIDENCE label; multi-label outputs INVALID"
 }

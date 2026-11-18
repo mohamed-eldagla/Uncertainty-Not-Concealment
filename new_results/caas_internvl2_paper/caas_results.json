@@ -9,8 +9,9 @@
         "CONTRADICTS": 1
       },
       "robust": {
-        "SUPPORTS": 54,
-        "INCONCLUSIVE": 5
+        "SUPPORTS": 53,
+        "INCONCLUSIVE": 5,
+        "INVALID": 1
       },
       "naive_cont": 1.694915254237288,
       "robust_cont": 0.0
@@ -22,7 +23,8 @@
         "CONTRADICTS": 2
       },
       "robust": {
-        "SUPPORTS": 54,
+        "SUPPORTS": 52,
+        "INVALID": 2,
         "INCONCLUSIVE": 5
       },
       "naive_cont": 3.389830508474576,
@@ -34,7 +36,8 @@
         "INCONCLUSIVE": 5
       },
       "robust": {
-        "SUPPORTS": 53,
+        "SUPPORTS": 52,
+        "INVALID": 1,
         "INCONCLUSIVE": 6
       },
       "naive_cont": 0.0,
@@ -46,7 +49,8 @@
         "INCONCLUSIVE": 7
       },
       "robust": {
-        "SUPPORTS": 52,
+        "SUPPORTS": 50,
+        "INVALID": 2,
         "INCONCLUSIVE": 7
       },
       "naive_cont": 0.0,
@@ -59,8 +63,9 @@
         "INCONCLUSIVE": 8
       },
       "robust": {
-        "SUPPORTS": 51,
-        "INCONCLUSIVE": 8
+        "SUPPORTS": 49,
+        "INCONCLUSIVE": 8,
+        "INVALID": 2
       },
       "naive_cont": 1.694915254237288,
       "robust_cont": 0.0
@@ -71,8 +76,9 @@
         "INCONCLUSIVE": 8
       },
       "robust": {
-        "SUPPORTS": 51,
-        "INCONCLUSIVE": 8
+        "SUPPORTS": 50,
+        "INCONCLUSIVE": 8,
+        "INVALID": 1
       },
       "naive_cont": 0.0,
       "robust_cont": 0.0
@@ -98,7 +104,8 @@
   },
   "false_positive_robust_counts": {
     "INCONCLUSIVE": 9,
-    "SUPPORTS": 21
+    "SUPPORTS": 17,
+    "INVALID": 4
   },
   "false_positive_robust_contradicts_rate": 0.0,
   "direction_diagnostics": {
@@ -144,5 +151,6 @@
       "n_matched": 198,
       "n_mismatched": 200
     }
-  }
+  },
+  "verdict_parser": "first VISUAL EVIDENCE label; multi-label outputs INVALID"
 }

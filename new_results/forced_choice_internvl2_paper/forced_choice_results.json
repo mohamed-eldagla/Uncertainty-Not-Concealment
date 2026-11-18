@@ -1,38 +1,40 @@
 {
   "model": "InternVL2-8B",
-  "parser": "first label / first line, brackets optional",
+  "parser": "multiple leading choices -> OTHER; else first label/line; negation-aware",
   "mismatched_counts": {
-    "SUPPORTS": 296,
-    "CONTRADICTS": 3,
-    "OTHER": 1
+    "SUPPORTS": 284,
+    "OTHER": 13,
+    "CONTRADICTS": 3
   },
   "mismatched_contradicts_rate": 1.0,
   "matched_counts": {
-    "SUPPORTS": 146,
-    "CONTRADICTS": 2,
-    "OTHER": 2
+    "SUPPORTS": 143,
+    "OTHER": 5,
+    "CONTRADICTS": 2
   },
   "matched_contradicts_rate": 1.3333333333333335,
   "per_condition": {
     "C2": {
       "counts": {
-        "SUPPORTS": 96,
-        "CONTRADICTS": 3,
-        "OTHER": 1
+        "SUPPORTS": 91,
+        "OTHER": 6,
+        "CONTRADICTS": 3
       },
       "n": 100,
       "contradicts_rate": 3.0
     },
     "C3": {
       "counts": {
-        "SUPPORTS": 100
+        "SUPPORTS": 96,
+        "OTHER": 4
       },
       "n": 100,
       "contradicts_rate": 0.0
     },
     "C4": {
       "counts": {
-        "SUPPORTS": 100
+        "SUPPORTS": 97,
+        "OTHER": 3
       },
       "n": 100,
       "contradicts_rate": 0.0

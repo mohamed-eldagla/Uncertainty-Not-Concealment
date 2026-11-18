@@ -48,5 +48,5 @@
       "INVALID_pct": 0.0
     }
   },
-  "verdict_parser": "first VISUAL EVIDENCE label, brackets optional"
+  "verdict_parser": "first VISUAL EVIDENCE label; multi-label outputs INVALID"
 }
